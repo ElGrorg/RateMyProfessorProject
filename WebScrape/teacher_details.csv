@@ -1,0 +1,1397 @@
+name,department,rating,count_ratings,difficulty,would_retake
+Jennifer Abe-Kim,Psychology,4.1,14,3.6,N/A
+Brian Foster,American Studies,4.4,58,1.5,N/A
+Najwa Al-Qattan,History,3.4,73,3.5,75%
+Dennis Zill,Mathematics,1.9,66,4.2,N/A
+William Fulco,Anthropology,4.8,19,1.9,100%
+Catie Mihalopoulos,Classics,3.9,13,2.4,N/A
+Tom Dowd,Communication Studies,4.1,41,2.5,67%
+Pat Oliver,Communication Studies,4.7,27,1.3,100%
+Ed Gray,Business,2.8,21,3,N/A
+Richard Cook,Mathematics,4.0,12,2.3,N/A
+Robert Singleton,Economics,2.4,32,2.9,N/A
+Roy Houston,Science,4.1,16,2.3,N/A
+Tina Choe,Chemistry,4.6,38,3.3,N/A
+Debra Rosser,Science,5.0,6,2,N/A
+Gary Kuleck,Science,3.8,16,2.3,N/A
+Jasper Blystone,Philosophy,2.9,48,2.2,N/A
+Lawrence Jelinek,History,2.9,46,2.3,N/A
+Robin Miskolcze,English,3.5,25,3.2,100%
+Mary Breden,Music,3.9,29,3.3,N/A
+Stacy Burns,Social Science,4.0,50,2.8,100%
+Brian Moss,Fine Arts,2.8,26,4.1,50%
+Bob Ackley,Fine Arts,4.0,8,2,N/A
+Karl Snider,Music,4.8,17,1.3,N/A
+Katharine Noon,Fine Arts,4.2,20,2.7,67%
+Caroline LaMonda,Communication Studies,4.9,45,1.3,100%
+Chuck Rosenthal,English,3.4,27,2.2,50%
+Pat Connolly,Communication Studies,3.3,40,1.9,N/A
+Larry Bernard,Psychology,3.5,35,3.3,N/A
+John Dorsey,Science,4.3,17,2.7,100%
+Lucy Wilson,English,3.4,33,2.8,N/A
+Ralph Quinones,Business,4.7,86,3.6,100%
+Michael Vanbiezen,Mathematics,4.3,18,2.5,50%
+Nancy Jabbra,Women's Studies,1.7,30,4.1,N/A
+Joseph Tiedemann,History,3.6,49,3.8,N/A
+Mary Ingham,Philosophy,4.1,21,3.1,100%
+Ross Bengel,Accounting,4.5,16,4.1,N/A
+Michael O'Sullivan,Psychology,3.7,22,4.1,N/A
+Jose Badenes,Languages,4.1,27,3.2,N/A
+Allen Gray,Business,2.1,65,3.3,0%
+Megan Granich,Mathematics,4.5,124,2.6,N/A
+Mark Morelli,Philosophy,3.1,36,2.9,0%
+Curtis Bennett,Mathematics,4.5,30,2.8,N/A
+John Page,Engineering,3.5,38,4,0%
+Seid Zekavat,Economics,2.8,41,2.4,N/A
+James Hanink,Philosophy,3.2,28,3.3,N/A
+Stephanie August,Computer Science,2.7,25,3.6,N/A
+Philip Dorin,Computer Science,4.3,13,3.5,100%
+Reyna Valenzuela-Cummings,Communication Studies,4.3,14,1.4,N/A
+Kate Lewis,Music,5.0,21,1.1,N/A
+Christina Gold,History,4.3,22,2.4,0%
+Ernesto Sweeney,History,3.5,35,2.6,N/A
+David Killoran,English,3.6,17,3.8,N/A
+Karenmary Davalos,Ethnic Studies,3.4,33,3.8,50%
+Steve Crissanthos,History,4.2,43,2.8,100%
+M. Cathy McElwain,Biology,2.4,33,3.6,23%
+Bruno Rota,Languages,3.2,13,2.5,N/A
+Jeff Sanny,Physics,4.6,29,3.1,80%
+Thomas White,Business,4.6,25,1.6,N/A
+Annie Liu,Marketing,3.7,47,2.7,N/A
+Richard Rolfs,History,3.2,50,3.1,N/A
+Thomas Zachariah,Mathematics,3.3,57,2.8,45%
+Connie Weeks,Mathematics,4.1,41,2.1,N/A
+Cal Caswell,Business,4.5,21,1.5,N/A
+Lori Bergstrom,Communication Studies,4.2,40,1.9,N/A
+Jose Saez,Engineering,4.6,21,1.9,N/A
+Ronald Barrett,Psychology,2.0,69,4,N/A
+Ernesto Colin,Education,3.1,9,2.4,100%
+Richard Gilbert,Psychology,3.5,42,3.2,82%
+Kathleen Norris,Communication Studies,4.5,37,2.3,100%
+Janie Streckenrider,Political Science,4.0,15,1.7,100%
+George Dasaro,Accounting,3.8,36,4,N/A
+Leah Pate,English,4.4,29,3.1,N/A
+Gregori Viens,Film & Television,2.7,24,3,N/A
+Eduardo Morales,Mathematics,3.5,38,2.8,N/A
+Scott Cameron,Philosophy,3.6,61,3.8,N/A
+James Devine,Economics,2.4,73,3.7,28%
+Laurie Pintar,History,4.4,80,3.7,N/A
+Alicia Partnoy,Languages,4.1,19,2,N/A
+Fred Kiesner,Business,4.1,44,2.8,N/A
+Linda Bannister,English,3.3,14,3.3,N/A
+Chuck Erven,Theater,2.5,20,3.3,0%
+Eric Ladizinsky,Physics,3.5,19,2.4,N/A
+Lev Abolnikov,Mathematics,2.5,55,3.4,N/A
+Anthony Smulders,Science,2.3,47,4.2,N/A
+Deena Gonzalez,Ethnic Studies,2.5,17,3.9,N/A
+Marina Moevs,Fine Arts,4.0,24,3.2,50%
+Alan Falcon,Accounting,4.3,31,3.5,N/A
+Mladen Milicevic,Film,4.3,15,2.7,89%
+James Fredericks,Theology,3.1,31,3.4,N/A
+Suzanne Larson,Mathematics,4.4,22,2.2,50%
+Rene Topalian,Biology,4.0,38,3.2,100%
+Susan Scheibler,Film,4.1,43,2.3,94%
+Rodger Pardee,Film,4.6,32,2.6,84%
+Erica Byrne,Film,3.6,8,2.8,N/A
+Michael Genovese,Political Science,4.4,19,3,100%
+Mahmoud Nourayi,Accounting,3.0,50,3.5,50%
+John Connolly,Theology,4.0,28,2.6,N/A
+Seth Thompson,Political Science,2.8,25,4,N/A
+Jane Brucker,Fine Arts,3.6,21,3.3,80%
+William Pupa,Fine Arts,4.5,26,2.3,100%
+Wilkie Au,Theology,3.9,15,2.6,N/A
+Judith Foy,Psychology,3.7,40,3.8,0%
+Sylvia Morales,Film,3.1,8,2.8,N/A
+Kathy Yang,Languages,4.9,25,2.8,100%
+John Grever,History,4.4,17,2.2,N/A
+Caprice Walker,Theater,4.8,9,1.4,N/A
+Al Hayashi,Business,3.2,30,3.3,N/A
+John Stewart,Film,2.8,17,2.6,N/A
+Barbara Rico,English,3.9,31,3.4,67%
+Thomas Rausch,Theology,3.1,25,4,50%
+Juan Mah Y Busch,English,3.8,43,2.9,55%
+John Kochian,Communication Studies,4.6,37,1.2,N/A
+Nina Reich,Communication Studies,4.6,17,2.1,50%
+Jon Saxon,Mathematics,2.7,46,3,N/A
+Lawrence Tritle,History,3.9,40,3.3,N/A
+Michele Mega,Communication Studies,3.8,26,3,N/A
+David Marple,Sociology,3.8,46,1.9,100%
+Patrick Shanahan,Mathematics,4.4,32,2.6,100%
+Lisa Harris,Psychology,3.9,11,2.3,N/A
+Renate Thimester,Economics,1.8,71,3.5,N/A
+Wilfredo Flores,Mathematics,2.9,78,2.7,N/A
+Gary Sibeck,Business,3.4,32,2.1,100%
+David Hardy,Psychology,3.5,43,2.7,75%
+John P. Waggoner,Biology,3.6,23,3.6,N/A
+Benjamin Bobo,Finance,3.1,23,3.8,0%
+Labina Ula,English,2.8,23,3.3,N/A
+Jeff Gale,Business,2.3,17,3.3,0%
+Paul Rude,Engineering,3.8,7,2.7,100%
+Dave Smith,Mathematics,3.3,27,3,N/A
+Dionne Bennett,Women's Studies,2.7,46,2.9,0%
+Richard Rohrer,Film,4.4,27,1.7,100%
+Michael Barclay,Theology,4.7,12,2.5,N/A
+Michael Grady,Mathematics,2.5,37,4.2,N/A
+George Hess,Business,4.2,26,1.4,N/A
+Matt Nelson,Communication Studies,4.4,21,1.9,N/A
+Aimee Koeplin,Philosophy,3.6,27,2.4,0%
+Lowell Herr,Philosophy,2.0,40,3.3,N/A
+Marc Lony,Languages,3.7,24,3,86%
+William Trott,Engineering,3.3,13,3.3,0%
+Ron Marasco,Theater,4.9,17,2.1,100%
+Barbara Busse,Communication Studies,2.5,2,3,N/A
+Luis Proenca,Film,3.2,11,1.9,60%
+Alan Cherry,Accounting,3.1,41,3.6,N/A
+Hiromi Kinjo,Languages,3.4,17,2.7,50%
+Fr. Joe La Brie,Psychology,3.6,25,2.9,100%
+Sandy Kirkner,Psychology,3.3,13,1.7,N/A
+Carolyn Almos,Theater,4.5,16,1.5,100%
+Elizabeth Murray,Philosophy,2.9,20,3.3,25%
+David Mathison,Management,4.1,24,2.3,N/A
+Katherine Harper,Art History,3.6,22,4,N/A
+Peter Ring,Management,2.6,18,2,N/A
+Mel Mendelson,Engineering,2.4,19,2.8,N/A
+Barbara Dyer,Music,4.3,16,1.4,40%
+Garland Kirkpatrick,Graphic Arts,3.1,13,3.3,N/A
+Frank Daroca,Accounting,3.8,24,3.8,N/A
+Nazmul Ula,Engineering,2.9,6,3.2,N/A
+Jackie Dewar,Mathematics,2.3,14,3.6,N/A
+Herbert Medina,Mathematics,4.3,25,3.3,100%
+Mark Schwartz,Film,4.6,14,2.5,100%
+Steve Duncan,Film,5.0,5,1.8,N/A
+John Emerling,Art History,4.6,11,2.7,N/A
+Robbie Nakatsu,Information Science,4.3,28,2.5,100%
+Michael Mulvihill,Engineering,4.4,11,1.8,0%
+Charlotte Radler,Religion,4.5,21,3.1,72%
+Leland Swenson,Psychology,4.7,11,2.4,100%
+Wojciech Kocyan,Music,4.4,11,3.2,N/A
+Phyllis Green,Fine Arts,2.8,8,2.4,N/A
+Yvette Lapayese,Education,4.9,16,3.3,N/A
+Mike Daniels,Journalism,4.0,6,2.7,N/A
+Hassan Hussain,History,3.3,14,2.7,N/A
+Jay Busse,Communication Studies,2.6,20,2.2,100%
+Demetrios Liappas,Languages,5.0,4,2.3,N/A
+Jonas Mureika,Physics,4.4,22,2.9,100%
+Fatima Wu,Ethnic Studies,4.2,15,3,N/A
+John Beckwith,Business,3.6,22,2.4,67%
+Eric Hall,Philosophy,4.0,9,3.9,N/A
+Matt Dillon,Classics,4.3,24,2.9,67%
+Michelle Hammers,Communication Studies,4.6,24,2,100%
+Rebecca Crawford,Chemistry,2.2,18,3.8,0%
+John Menaghan,English,2.3,20,3,0%
+Shanna Kennedy-Quigley,Art History,4.1,19,3.8,N/A
+Marie Claire Costello,Theater,3.3,16,1.2,N/A
+Doris Namala,History,4.3,10,2.1,N/A
+Amy K. Ross,English,3.2,29,3.1,100%
+David Choi,Entrepreneurship,3.6,35,3.3,72%
+Raymond Greene,Film,3.1,8,2,N/A
+Laurel Ollstein,Theater,4.6,10,1.9,N/A
+Matt Kursar,Mathematics,4.6,21,1.5,N/A
+Ayanna Yonemura,Urban Studies,2.1,14,2.2,34%
+Erika Camacho,Mathematics,2.3,34,4.3,N/A
+Pamela Goldblum,Fine Arts,4.7,10,1.6,100%
+Larry Pate,Management,2.2,18,3.4,N/A
+Paul Lin,Ethnic Studies,2.7,36,3.9,N/A
+Renee Florsheim,Marketing,2.5,13,2.9,0%
+Dorian Llywelyn,Religion,4.2,44,3.2,N/A
+Dan Weingarten,Theater,3.5,10,2.7,N/A
+James Holmes,Theater,4.7,12,1.4,100%
+Michelle Lum,Biology,4.3,4,2.3,100%
+Jeffrey Davis,Film,4.6,15,1.6,100%
+Jeffrey Siker,Religion,4.8,16,2.8,N/A
+Martha Masters,Music,4.8,13,1.7,75%
+Mario Congreve,Film,3.5,11,2,N/A
+Katharine Clemmer,Education,4.7,6,3.7,100%
+Roberto Dell'Oro,Theological Studies,4.3,13,3,N/A
+Bob Robinson,Philosophy,4.4,11,3,N/A
+Jeff Thies,Business,4.0,11,2.7,100%
+Cliff Rochlin,Economics,2.1,46,4.4,0%
+Natalie Rivetti-Oritiz,Mathematics,4.6,6,1.7,N/A
+Kambiz Moghaddam,Dance,2.8,8,2.5,N/A
+Richard Perle,Computer Information Systems,3.3,21,3.5,60%
+Rachelle Katz,Business Administration,2.0,12,4.2,N/A
+Lee Cenquizca,Natural Sciences,2.2,8,4.5,100%
+Susan Schaffer,Spanish,2.7,21,3.2,N/A
+Ethan Adams,Classics,4.8,25,2.6,N/A
+Jonghwa Lee,Communication Studies,3.4,21,3.7,N/A
+K. Dahlquist,Biology,2.8,27,3.7,100%
+Saba Soomekh,Theology,4.6,43,2.5,N/A
+Kwaku Person-Lynn,Urban Studies,1.9,4,2.3,N/A
+Jennie Spencer Green,Education,4.1,7,2.1,N/A
+Judith Royer,Theater,3.9,8,2.6,N/A
+Brant Kline,Business Administration,3.5,7,3,N/A
+John Hartmann,Media & Performing Arts,4.6,9,1.3,N/A
+Richard Freiman,Film,3.6,8,1.3,N/A
+Robert Caro,English,2.5,3,2.7,N/A
+David Sanchez,Theology,4.8,51,2.4,100%
+Andrew Healy,Economics,4.1,35,3.1,N/A
+Laurie Beyer,Education,2.5,3,3.7,N/A
+Chris Haddy,Education,3.9,11,3.1,N/A
+Paul Desena,Education,4.4,11,2.5,100%
+John Huddle,English,4.0,26,3.3,N/A
+Darryl Graver,Business Law,4.8,9,1.3,N/A
+Reyna V. Cummings,Communication Studies,4.3,6,1.5,N/A
+Don Zirpola,Film,3.5,14,2.8,80%
+Rebecca Cantor,English,4.1,24,2.5,N/A
+Peter Soto,Film,3.7,3,4,N/A
+David Ramirez,Health Sciences,4.6,9,3.2,N/A
+L Boland,Engineering,3.6,8,2.4,N/A
+William Semos,Business Administration,2.6,12,4.5,100%
+Thomas Muller,Fine Arts,5.0,8,3.5,100%
+John Leaver,Art History,4.4,16,2.6,100%
+Victoria Newsom,Communication Studies,3.9,18,2.7,N/A
+Michael Datcher,English,4.6,23,1.9,100%
+Paige Edley,Communication Studies,2.9,22,2.3,67%
+Anja Leigh Russell,English,3.3,15,3.5,N/A
+Maria Nazarian,Psychology,4.5,12,2.7,N/A
+Yevette Saavedra,Urban Studies,3.1,22,3.6,N/A
+Graham Beckel,Theater,5.0,4,2,N/A
+Kathy Baur,Animation,3.8,3,2.7,N/A
+Janie Steckenrider,Political Science,3.7,33,2.2,100%
+Maureen Schaukowitch,Education,3.8,3,2,N/A
+Tomo Hattori,English,3.1,15,3.4,N/A
+Deanna Drew,English,2.3,19,4.5,N/A
+Gabe Griffith,Philosophy,3.8,8,2.5,N/A
+Chien Tseng,Mathematics,2.7,28,3.1,N/A
+Eli Daughdrill,Film & Television,3.3,17,2.8,N/A
+Lawrence Kalbers,Accounting,3.8,12,3.2,N/A
+Noel Korten,Art History,0.0,0,0,N/A
+Joseph Puterbaugh,English,4.6,11,1.7,100%
+Christopher Chapple,Theology,3.3,17,3.4,100%
+Jose Hernandez,Dance,0.0,0,0,N/A
+Debbie Davis,Education,5.0,2,2,N/A
+Slobodan Sijan,Film & Television,5.0,2,2.5,100%
+Ken Simmonds,Accounting,2.5,3,1.7,N/A
+Rachel Adams,Environmental Science,3.2,9,3.9,100%
+Elizabeth Drummond,History,3.7,33,3.7,100%
+Sharon Madden,Theater,4.6,9,1.8,100%
+Michael Domaguing,Marketing,4.8,2,3.5,N/A
+Dana Reemes,Archaeology,4.0,10,2.2,N/A
+Rory Natividad,Natural Sciences,0.0,0,0,N/A
+Keith Ellison,Natural Sciences,3.0,2,3.5,N/A
+David Zinn,Philosophy,2.9,68,3.9,50%
+Thomas McDermott,Music,3.8,6,2.5,N/A
+Gordon Firemark,Business Law,3.3,14,3.3,N/A
+Norman Knoerlein,Film & Television,0.0,0,0,N/A
+Teresa Romero,History,5.0,2,3,N/A
+Laurence Dumortier,English,3.3,9,1.9,N/A
+Jeremy Pal,Civil Engineering,3.9,18,2.7,80%
+Bill Sanders,Marketing,5.0,3,2.3,100%
+Susan Abelein,Education,5.0,2,2,N/A
+Judy Scalin,Dance,4.7,5,1.6,100%
+Tekla Kostek,Dance,3.5,8,4.3,N/A
+Elaine Walker,Communication Studies,4.6,7,1.6,N/A
+Forouzan Faridian,Physics,2.6,7,3,100%
+Nicolas Rosenthal,History,4.2,47,2.8,73%
+Dan Kennedy,Classics,3.0,2,5,N/A
+Margaret Trenchard-Smith,History,4.5,22,2.6,N/A
+Tania Maync,History,4.5,43,3.2,100%
+Orie Prince,Women's Studies,0.0,0,0,N/A
+Cynthia Prescott,American Studies,0.0,0,0,N/A
+Guillo Della Rocca,Mathematics,2.6,22,3.1,N/A
+Francisco Ramos,Education,2.8,11,2.7,25%
+Phil Pannell,Education,4.5,2,3,N/A
+Timothy Braun,Education,0.0,0,0,N/A
+Wenshu Lee,Communication Studies,3.7,5,1.8,N/A
+Christine Cain,Education,4.2,5,3.6,N/A
+Carolyn Brooks,Education,1.8,3,2,N/A
+Karen Hawkins,Education,4.5,2,3,N/A
+Karen Huchting,Education,4.9,5,2.8,N/A
+Maryam Maryami,Women's Studies,0.0,0,0,N/A
+Tammy Pao,Computer Science,2.6,4,2.3,N/A
+Michael Petitti,English,4.1,19,2.3,N/A
+Saeri Cho,Art,3.1,7,3.3,100%
+Michael Stock,English,4.4,4,1.8,N/A
+Michelle Anderson,Psychology,2.6,19,3.6,N/A
+Dalia Muller,History,3.9,7,2.3,N/A
+John Parrish,Political Science,3.6,15,3.3,N/A
+Mark Gordon,Sociology,3.0,10,2.5,N/A
+Jay Douglas,Film,2.9,6,3.8,N/A
+Adam Fingerhut,Psychology,4.5,53,3.5,89%
+Daniel Speak,Philosophy,4.1,40,3.7,86%
+Kelley Falconer,Philosophy,3.8,23,3.6,N/A
+Deke Simon,Film & Television,4.4,10,2.3,100%
+Eugenia Sileoni,Spanish,4.4,6,1.8,N/A
+Thomas D'Amico,Philosophy,3.1,9,2.6,N/A
+Nicole Woods,Art History,4.7,11,3.9,N/A
+Nenad (Neno) Pervan,Theater,4.9,13,2.6,100%
+Andrea O. Fuller,Theater,5.0,8,1.9,100%
+Thomas Cappelli,Philosophy,4.4,20,3.3,N/A
+Linda Hasunuma,Political Science,4.8,11,3,N/A
+Jennifer Pate,Economics,4.9,48,2.9,100%
+Anna Sarrano,Education,2.5,4,2.5,N/A
+Vernita Burrell,English,4.6,9,2.2,N/A
+Patrick Scott,Film & Television,4.6,18,3.3,84%
+Henry Garcia,Studio Art,0.0,0,0,N/A
+Barbara Christie,Natural Sciences,4.3,6,1.7,N/A
+Dina Parker,Education,0.0,0,0,N/A
+Shannon Nason,Philosophy,4.0,24,2.7,N/A
+Robert Stephan,History,4.3,4,2.3,N/A
+Denise Leitner,Dance,2.5,1,1,N/A
+Deborah Harris,English,4.7,12,2.4,N/A
+Shawki El Zatmah,History,3.0,8,1.9,N/A
+Victor Carmona,Biology,4.5,18,2.8,100%
+Evan Woods,Economics,0.0,0,0,N/A
+Phil Wander,Communication Studies,3.8,2,2,N/A
+Grant Garinger,Theater,4.3,6,1.7,N/A
+Thomas Whaling,Philosophy,4.5,4,3,N/A
+Joshua Blander,Philosophy,3.1,14,3.2,N/A
+Pepper Glass,Sociology,2.7,7,3.1,N/A
+Dung Tran,Communication Studies,3.6,14,3.2,N/A
+Tim Burns,Philosophy,4.3,20,2.6,100%
+Chin Tin Senz,Mathematics,0.0,0,0,N/A
+Simon Karmarker,Management,2.5,2,2.5,N/A
+Thomas Mueller,Art & Art History,4.3,3,4.3,N/A
+Helen Alatorre,Education,3.0,2,2.5,N/A
+Maria Valenzuela,American Studies,3.9,23,2,N/A
+Jason Jenkins,English,4.8,23,2,N/A
+Joanna Burgarino,English,4.4,8,2.5,N/A
+Raul Ramirez,Management,0.0,0,0,N/A
+Amy Willard,Communication Studies,3.4,6,2.8,100%
+Julia Lee,English,4.4,17,2.8,100%
+Shawki El-Zatmah,History,4.1,10,1.5,N/A
+Steve Chrissanthos,History,4.1,16,3.4,N/A
+Amy Alward,Accounting,2.6,28,3.7,N/A
+Diane Fiello,Education,2.5,2,3,N/A
+Maura Captain,Education,4.0,8,1.3,N/A
+David Byrne,History,4.3,20,2.1,N/A
+Cassie Cain,Mathematics,1.9,15,4,N/A
+Erica Steakley,English,4.7,18,2,100%
+Warren Wright,Mathematics,2.5,2,3.5,N/A
+Maral Reyes,Education,5.0,2,2,N/A
+Boris Fritz,Mechanical Engineering,0.0,0,0,N/A
+Tania Fleischer,Music,5.0,2,3.5,100%
+Sovathana Sokhom,Economics,1.2,17,4.6,0%
+Nara Chea,Economics,2.6,8,3.8,N/A
+James Kearney,Film & Television,4.0,1,1,N/A
+Jeffrey Lindstrom,Economics,4.4,5,1.6,N/A
+Nadine McGuinness,Theological Studies,1.5,5,4.4,N/A
+Kevin Trosian,Finance,0.0,0,0,N/A
+Arif Karim,Chemistry,4.6,8,2.9,N/A
+Seth Kim,Economics,2.0,12,2.9,N/A
+Susan Feldman,English,3.1,11,4.5,N/A
+Michon Matthieson,Theological Studies,1.7,15,4.9,N/A
+Steve Michaud,Business,3.8,2,2.5,N/A
+Christine Nangle,Communication Studies,4.2,3,3.7,N/A
+David Aikenhead,Finance,0.0,0,0,N/A
+Emily Scherberth,Communication Studies,5.0,2,1.5,N/A
+Alecia Molezion,Communication Studies,2.5,3,2.7,0%
+John Glavan,Communication Studies,2.7,7,1.4,N/A
+Clifford Reed,Theater,0.0,0,0,N/A
+Molly Corey,Art & Art History,0.0,0,0,N/A
+Snack Break Sarah,Biology,0.0,0,0,N/A
+James Carroll,Management,4.5,2,1,N/A
+Joshua Hayes,Philosophy,4.2,3,3.3,N/A
+Craig Rich,Communication Studies,4.5,12,2.5,100%
+Gregory Canillas,Psychology,3.0,3,2,N/A
+David Matheson,Business,3.8,2,2.5,N/A
+George Saraf,Economics,4.3,9,2.9,100%
+Lori Klein,Education,0.0,0,0,N/A
+Jongmae Park,Theology,4.8,6,2.5,N/A
+Jon Mochizuki,American Studies,4.5,8,2.5,100%
+Ruth Lane,English,4.9,5,2.8,N/A
+Ross Mann,English,4.4,5,1.4,N/A
+Alexandra Neel,English,3.3,8,3.1,50%
+Katherine Rhodes,English,4.4,9,2.9,N/A
+Lizy Moromisato,Languages,3.1,6,2.7,N/A
+Ernesto Colin,Liberal Studies,0.0,0,0,N/A
+Lynell George,English,2.5,2,2.5,N/A
+Maggie Catalfamo,English,0.0,0,0,N/A
+Daniel Bonilla,Natural Sciences,4.5,11,2.7,N/A
+Cassandra Veney,Political Science,3.3,23,4.1,N/A
+Derek Von Barandy,Philosophy,4.1,26,2.7,N/A
+Emek Kose Can,Mathematics,4.4,6,2.5,N/A
+Ramona Wright,Communication Studies,1.8,2,2,N/A
+Sonja Kemp,Business,4.9,3,2.3,100%
+Jane Yamashiro,American Studies,2.5,26,2,N/A
+Victor Polanco,American Studies,2.2,3,4.3,N/A
+JW Huddle,English,0.0,0,0,N/A
+Grant Zamudio,Women's Studies,5.0,1,1,N/A
+Donna Laws,Natural Sciences,0.0,0,0,N/A
+Stephane Muller,French,4.5,1,2,N/A
+Dexter Blackman,History,2.8,36,3.9,100%
+Marc Reeves,Theology,3.4,13,3,0%
+Kathleen Foy,Philosophy,2.5,2,1,N/A
+Patrick Doyle,Psychology,3.3,2,2,N/A
+John Compton,Political Science,5.0,1,4,N/A
+Sang-Hyun Lee,Economics,0.0,0,0,N/A
+Anna Serrano,Education,2.0,1,4,N/A
+Jane Yamashiro,Sociology,2.7,3,3.3,N/A
+Lorne Platt,Urban Studies,3.5,2,2,N/A
+James Roe,Chemistry,1.5,2,4.5,N/A
+Lee Feldman,Business Law,3.6,4,3,N/A
+Erika Thomas,Communication Studies,0.0,0,0,N/A
+Sarpphaitoon Suppaleuk,Economics,2.0,1,3,N/A
+Heather Graham,Art & Art History,0.0,0,0,N/A
+Jean Murachanian,Art & Art History,1.5,1,4,N/A
+Cythina Bond,Theology,3.3,13,2,N/A
+Mona Seymour,Urban Studies,2.7,15,3.3,0%
+Thuy Vo Dang,American Studies,1.8,10,4.4,N/A
+Elizabeth Dively-Lauro,Theological Studies,4.0,4,2,N/A
+Jennifer Hsieh,Biology,2.0,5,4.8,N/A
+Misha Tadd,Theological Studies,3.0,5,2.8,N/A
+Evan Somers,Film & Television,0.0,0,0,N/A
+Kristin Devitt,English,5.0,1,2,N/A
+Laura Diaz,English,4.0,3,3,N/A
+Lauren Redwine,English,0.0,0,0,N/A
+Nicole Morris,English,3.3,3,3.3,N/A
+David Lerner,Film & Television,4.4,10,3.1,N/A
+Anton Smith,American Studies,2.8,16,4,N/A
+Susie Woo,American Studies,5.0,3,2,N/A
+Erika Perez,American Studies,4.2,5,4,N/A
+Vicente Cassano,Biology,4.0,18,1.8,100%
+Elaine Goodfriend,Theology,3.1,5,3.6,N/A
+Thomas Leach,Film & Television,5.0,2,1,N/A
+Brett Grisham,Film & Television,5.0,1,1,N/A
+Shelley Luce,Environmental Science,5.0,1,3,N/A
+Amanda Herring,Art & Art History,3.5,18,3.7,43%
+Brandon Seto,History,4.3,26,3.3,100%
+Suzie Abajian,Mathematics,4.8,4,2.3,N/A
+Ivy Cargile,Political Science,4.3,5,3.2,N/A
+Linda Yellin,Sociology,3.3,6,2.3,N/A
+Courtney Spikes,History,4.2,9,3,50%
+Karol Hoeffner,Film & Television,5.0,1,3,N/A
+Rachel Petrocelli,History,4.2,18,4.1,86%
+Don Schroeder,Film & Television,5.0,3,1,N/A
+Dorian Llwelyn,Theological Studies,3.5,2,3.5,N/A
+Leiger Biederman,Art & Art History,5.0,1,2,N/A
+Rosalie Siemon,Philosophy,4.2,9,2.4,N/A
+Robert Cross,History,4.8,8,2.9,N/A
+John Strickland,History,2.6,4,3,N/A
+Henry Nguyen,Theological Studies,3.4,4,1.8,N/A
+David Sheridan,History,3.2,9,3.6,N/A
+Iliana Delarkin,Communication Studies,4.3,16,3.2,92%
+Megan Azzi,Education,5.0,1,3,N/A
+Timothy Helton,Theology,3.5,13,2.9,N/A
+Karla Colorado,Education,5.0,1,1,N/A
+Candace Pointdexter,Education,5.0,1,1,N/A
+Cecilia Martinez-Gil,English,4.1,11,2.3,N/A
+Andrew Lac,Psychology,4.4,17,3.2,N/A
+Kevin Griffin,Biology,1.8,4,4.8,N/A
+Tom Sharp,Education,5.0,2,2.5,100%
+Mia McIver,English,3.8,6,2.8,N/A
+Mathes Mennell,Education,0.0,0,0,N/A
+Monica Osborne,English,5.0,2,1.5,N/A
+Terri Anderson,Sociology,3.6,8,3,N/A
+Catherine Skibo,Chemistry,1.5,2,5,N/A
+Yvette Mylett,English,4.7,8,3.6,100%
+Hillary Hintzen,English,4.2,8,2.9,N/A
+Rebecca Pazdral,Not Specified,4.0,1,3,N/A
+Thomas Ramsey,Accounting,1.9,26,3.7,0%
+Joseph Pak,Philosophy,2.7,3,3.7,N/A
+James Kintz,Philosophy,3.8,7,2.7,N/A
+Sun Hee Yoon,History,3.7,27,3.6,34%
+"William ""bill"" Welcher",Education,4.5,1,1,N/A
+Rozy Vig,Mathematics,2.5,3,4,N/A
+James Bany,Not Specified,3.4,17,3.4,N/A
+Candice Nicolas,French,3.7,3,3,N/A
+Lucia Singer,Communication Studies,1.7,3,3.7,N/A
+Heather Hoffman,English,4.8,6,2.3,N/A
+Angela Gallegos,Mathematics,3.1,13,3.6,50%
+Paul Reinsch,Film & Television,2.9,5,3.8,N/A
+Christiano Manfre,Economics,2.5,15,3.4,100%
+Janna Goebel,English,4.7,3,3,N/A
+Nicholas Denysenko,Theology,3.7,4,3,50%
+Susie McDaniel,Communication Studies,4.9,17,1.8,100%
+Robert Buerkle,Film & Television,0.0,0,0,N/A
+Corinna Silva Da Veiga Jardim,German,4.8,2,2.5,N/A
+Kaci Cooper,English,4.5,2,2.5,N/A
+Todd Otanicar,Mechanical Engineering,1.0,1,5,N/A
+Milka Broukhim,Studio Art,4.8,2,4,N/A
+Julie Cohen,History,4.0,3,1.7,N/A
+Andrew Rohm,Business,5.0,4,3.3,100%
+Junyi Liu,Asian Pacific American Studies,4.8,2,2,N/A
+Karen Beavers,Film & Television,4.0,1,3,N/A
+Casey Shoop,English,4.1,4,2.8,N/A
+Yael Lipschutz,Art & Art History,0.0,0,0,N/A
+Gabrielle Shulman,English,3.3,3,2.7,N/A
+Donald Dilliplane,English,4.6,6,2,N/A
+Kenneth Ellsworth,English,0.0,0,0,N/A
+Siel JU,English,0.0,0,0,N/A
+Zenadia Ramos,Mathematics,2.3,6,3.2,N/A
+Benjamin Christensen,American Studies,1.0,1,4,N/A
+Laura Rectenwald,English,4.7,5,1.6,N/A
+Albertus Laksana,Theological Studies,3.0,2,2,N/A
+Steve Sherwood,Sociology,3.4,5,3.8,N/A
+Lana Spraker,Theater,3.5,1,2,N/A
+Matthew Werber,Physics,2.0,8,4,N/A
+Marlene Rodrigues,French,0.0,0,0,N/A
+Jael Reboh,Philosophy,0.0,0,0,N/A
+Jesse Mills,Political Science,4.5,5,2.8,N/A
+Yan Yan Yang,Economics,1.2,5,3.6,N/A
+Diana Reichenbach,Art & Art History,0.0,0,0,N/A
+Evelyn McDonnell,English,3.5,8,3.4,40%
+Bryce Mason,Finance,0.0,0,0,N/A
+Jay Oliva,Animation,0.0,0,0,N/A
+Sean D''Evelyn,Economics,4.4,19,3.2,100%
+Paul Keller,Theological Studies,4.5,3,3.3,N/A
+Charles Tang,Engineering,4.5,2,2,N/A
+Rosalind Lewis,Engineering,4.5,1,2,N/A
+Steven Brunter,African-American Studies,1.0,1,5,N/A
+Julie McGene,Sociology,4.9,12,1.5,N/A
+Joanne Hall,American Studies,3.5,1,1,N/A
+Lucy Kilp,Psychology,4.2,5,2.8,N/A
+Xandra Kayden,Political Science,3.5,2,2.5,N/A
+Adilifu Nama,African-American Studies,3.8,12,2.7,100%
+Eric Saulnier,History,2.8,3,3.3,0%
+Nora Zepeda,Spanish,3.7,8,2.9,100%
+Lori Brummel,Education,1.0,1,5,N/A
+Nicole Valenzuela,Biology,4.3,3,2,N/A
+Katelyn Quinley,English,2.8,2,3,N/A
+Courtney Pina,English,4.9,13,2.1,N/A
+Melissa Nivala,Mathematics,4.6,37,2.5,N/A
+James Kilcup,Communication Studies,4.2,5,2.6,N/A
+Tyler Ferreira,Art & Art History,4.4,13,2.8,100%
+Christopher Finlay,Communication Studies,4.5,15,2.9,100%
+Chiara Sulprizio,Archaeology,4.2,3,1,100%
+Kristen Fuhs,Film & Television,4.5,1,2,N/A
+Dudley Gray,Communication Studies,5.0,2,2,100%
+Justin Campbell,English,3.2,6,4,N/A
+Elizabeth Barr,English,3.0,4,3.8,N/A
+Thomas Ward,Philosophy,4.8,4,4.3,N/A
+Julie Suh,Accounting,4.7,7,3.6,N/A
+Andrew Devereux,History,4.2,12,3.2,34%
+Hannah Dow,English,4.5,4,2.3,N/A
+Norma Bowles,Theater,3.7,8,2.9,100%
+Anne Hong-Hermesdorf,Biology,2.0,1,1,N/A
+Jeffrey Kaisershot,Art & Art History,5.0,1,1,N/A
+Leah Mancuso,Psychology,2.0,1,4,N/A
+Arin Brahma,Computer Information Systems,2.7,26,3.3,34%
+Marta Sanchez,Education,5.0,1,1,N/A
+Ron Sorace,Mathematics,1.6,29,4.6,25%
+Cody Packard,Psychology,1.3,3,4.7,N/A
+Janice Littlejohn,English,1.0,2,4.5,N/A
+Sara Lederer,Psychology,3.9,30,2.9,67%
+William Britt,Philosophy,3.2,18,4.1,59%
+Arthur Kiureghian,Business Law,4.7,3,2.3,100%
+Sheron Mark,Environmental Science,2.5,2,2,N/A
+Matthew Pereira,Theological Studies,4.4,28,3.3,86%
+Benjamin Yeo,Computer Information Systems,3.5,3,1.7,N/A
+Susan Abraham,Theology,4.6,8,3.1,100%
+Laurence Boland,Natural Sciences,0.0,0,0,N/A
+Judith Williams,Biology,1.5,3,3.3,N/A
+Elizabeth Quiros-Loe,Theological Studies,3.2,3,3.7,N/A
+Sean Hooks,English,5.0,2,2.5,N/A
+Thomas Buckley,History,3.1,4,3.5,N/A
+Kofi Yankey,Economics,2.0,3,3.7,N/A
+Robert Cook,Dance,3.5,1,1,N/A
+Nefertiti Takla,History,4.5,1,2,N/A
+Chris Zepeda-Millian,Political Science,3.4,10,3.2,0%
+Wesley Dowd,Biology,4.0,2,3,100%
+Ying Ying Wang,Accounting,3.7,33,4.1,67%
+Benjamin Lappenga,Theology,3.0,1,3,N/A
+Richard Dent,English,0.0,0,0,N/A
+Michael Levi,Health Sciences,5.0,3,1,N/A
+John Swain,Communication Studies,3.5,1,2,N/A
+Jose Tapia,Physics,3.5,23,3.7,70%
+Moshe Naor,Political Science,5.0,1,1,N/A
+Angela James,African-American Studies,2.9,7,3.2,50%
+Selene Zander,Spanish,3.9,4,3.5,N/A
+Michael Dulay,Health Sciences,0.0,0,0,N/A
+Lauren Wozniak-Pearce,Physics,0.0,0,0,N/A
+Isaac Speer,Sociology,4.3,4,1.8,0%
+Corey Eccles,Audio Production,4.0,2,1.5,N/A
+Mikael Kreuzriegler,Film & Television,3.7,4,2.3,50%
+Robert Burgos,Film & Television,1.0,3,3.7,0%
+John Dionisio,Computer Science,4.2,11,2.6,91%
+Alissa Zito,Communication Studies,4.8,10,1.4,100%
+Lillian Barbeito,Dance,0.0,0,0,N/A
+Annemarie Perez,English,4.4,12,2.5,50%
+Monika Remedios,Philosophy,3.0,1,2,N/A
+Tim Huffman,Communication Studies,4.8,3,2.7,N/A
+Matthew Peterson,Political Science,4.5,21,2.1,N/A
+Theresa  Todd,Communication Studies,3.0,1,4,N/A
+Timothy Huffman,Communication Studies,0.0,0,0,N/A
+Marick Sinay,Mathematics,3.6,5,3.8,N/A
+Luke Woodruff,Theater,4.7,7,1.7,100%
+Nari Choi,Mathematics,3.0,10,2.9,N/A
+Amy Nielsen,Chemistry,2.3,3,4.7,N/A
+Judy Siker,Theological Studies,4.0,23,3,65%
+Hafedh Herichi,Mathematics,4.0,6,3.2,100%
+Christopher Cobb,Engineering,4.0,2,2.5,N/A
+Gordon Bennett,Theological Studies,5.0,1,3,N/A
+Hamish Cameron,Classics,0.0,0,0,N/A
+Morgan Land,Film  Television,4.3,2,4,N/A
+Rosalie  Lochner ,Women's Studies,3.6,8,3,N/A
+Ann Le,Art  Art History,0.0,0,0,N/A
+Michele Romolini,Biology,0.0,0,0,N/A
+Tom  Nelson,English,1.0,1,5,N/A
+Ilene Straus,Education,0.0,0,0,N/A
+Erika Rothberg,English,0.0,0,0,N/A
+Teresa  Munoz,Art  Art History,2.4,6,4,50%
+Chris Becker,Art  Art History,1.0,1,3,N/A
+Timothy Shea,Art  Art History,2.3,2,5,N/A
+Katie King,English,4.8,5,1.8,N/A
+Kimberli Samuel,Marketing,3.0,1,2,N/A
+Eric Taylor,Communication Studies,4.5,3,1.7,100%
+Brooke Nelson,Theological Studies,4.0,1,4,N/A
+Ilan Freeman,Theological Studies,0.0,0,0,N/A
+Amy Shevitz,Theological Studies,2.0,2,4.5,100%
+Nicholas Thaler,Psychology,4.7,5,3,100%
+Shamin Rostami,Entrepreneurship,0.0,0,0,N/A
+Robin Johnson,Art  Art History,4.5,2,3.5,100%
+Amina  Humphrey,American Studies,4.6,12,1.8,60%
+Diane Meyer,Art  Art History,4.0,1,2,N/A
+Wednesday Hobson,English,1.0,1,4,N/A
+Margaret Gower,Theological Studies,3.4,9,3.4,40%
+Stacy Sinclair,Education,1.0,4,4,100%
+Haley Young,Computer Science,2.0,2,4.5,N/A
+Veronika Harder,Economics,2.4,4,3,100%
+Kristin Lui-Martinez,Mathematics,4.0,1,3,100%
+James Bogdonski,Film,0.0,0,0,N/A
+Paul Monson,Theology,3.5,6,4,0%
+Julia Gosart,American Studies,4.0,3,2,N/A
+Steven Lipshie,Environmental Science,4.5,1,4,N/A
+Andrew Subica,Psychology,4.5,1,2,N/A
+Christopher Chien,English,4.8,4,2.5,N/A
+Sarah Strand,Health Sciences,4.2,6,3.5,86%
+Ali Dehghan,Marketing,3.9,4,2.8,0%
+Marilyn McLaughlin,Dance,2.4,4,3.3,0%
+Ken Provencher,Film,0.0,0,0,0%
+Yvette Saavedra,Chicano Studies,3.5,2,3.5,N/A
+Raynee Gutting,Political Science,5.0,2,2,N/A
+Jessie Hewitt,History,0.0,0,0,N/A
+Eric Meyer,Theological Studies,3.9,8,3.4,67%
+Rosalio Cedillo,Sociology,3.7,3,4,100%
+Kristine Vardanyan,Education,5.0,1,4,100%
+Jim Clarke,Theological Studies,0.0,0,0,N/A
+Alexa Bolton,English,5.0,4,1.8,100%
+Barbra Lang,African-American Studies,0.0,0,0,N/A
+Stephen Hess,Education,0.0,0,0,N/A
+Rose Bomentre,Education,4.5,1,4,N/A
+Donald Kendall,Civil Engineering,2.5,2,4.5,0%
+Stanley Lewis,Business,2.5,6,3.5,34%
+Sergio Gaudio,Physics,3.0,4,4,100%
+Erica Watson,Film  Television,1.0,1,4,0%
+Matthew Sand,Entrepreneurship,0.0,0,0,N/A
+Lisa Upshaw,Health Sciences,4.8,2,2.5,N/A
+Shane Acker,Film,5.0,3,1.7,N/A
+Deborah Novak,Health Sciences,4.5,3,3,100%
+Paul Joffe,Film  Television,3.0,1,2,N/A
+Bryan  Ricci,Art  Art History,3.5,1,2,100%
+Sherine El Hag,Economics,3.8,19,2.6,67%
+Kevin Del Principe,Film  Television,5.0,6,1.3,100%
+Jason D'Mello,Entrepreneurship,4.5,16,3.3,94%
+Steve Domier,Film  Television,5.0,1,3,100%
+Timothy Haehn,English,4.5,1,5,N/A
+Allison Rohrer,English,4.5,1,4,N/A
+Leah Smith,Film  Television,3.4,5,2.8,80%
+Mary Talusan,Music,5.0,1,3,N/A
+Cynthia De Nuño,Marketing,1.0,1,5,0%
+Dan Wantanabe,Film  Television,0.0,0,0,N/A
+Elizabeth Rahilly,Sociology,2.8,5,3.2,0%
+Eric Davidian,Women's Studies,5.0,2,1,100%
+Nicholas Centino,Chicano Studies,3.8,9,3.4,56%
+Monica Marquez,Spanish,3.9,7,3.2,72%
+Cassandra Bailey,Business,1.0,1,3,0%
+Alma Flores,Chicano Studies,4.2,12,3.1,67%
+Ege Islekel,Philosophy,4.1,15,3.4,74%
+Jaron Neufeld,Philosophy,0.0,0,0,N/A
+Taylor Holbrook,Liberal Studies,4.0,3,2.7,100%
+Amanda Beer,Psychology,3.7,3,2.7,34%
+David Garden,Film,4.4,5,1,100%
+Thomas Hoklotubbe,Theological Studies,5.0,2,2.5,100%
+Le Gui,Mathematics,1.0,6,3.8,0%
+Jennifer Moorman,Women's Studies,4.0,10,3.3,70%
+Ian McDonald,English,5.0,3,2.3,100%
+Karen Carmichael,Mathematics,2.0,1,3,0%
+Allison Edgren,History,1.0,1,4,0%
+Dianne Hackett,Education,0.0,0,0,N/A
+Chris Engman,Studio Art,2.0,1,3,100%
+Alice Taylor,Political Science,4.7,3,4,100%
+Mugdha Yeolekar,Theology,3.6,12,2.8,75%
+Helen Kim,Education,5.0,3,1,100%
+Dave Harvilicz,Management,5.0,12,3.4,100%
+Jon Haghayeghi,Economics,5.0,1,3,100%
+Mirella Diaz-Santos,Psychology,2.0,1,5,0%
+David Pinzur,Sociology,4.7,3,2.7,100%
+Daniel Manchala,Computer Science,3.3,3,3.7,67%
+Bryan Pham,Theological Studies,2.4,16,3.5,38%
+Sylvia Zamora,Sociology,4.0,2,2.5,100%
+Kristina Markman,History,4.1,8,2.5,88%
+Nery Lemus,Art  Art History,0.0,0,0,N/A
+Shaun Anderson,Communication Studies,4.5,8,1.7,89%
+Serhiy Hovorun,Theological Studies,4.4,8,2,88%
+David Sapp,Education,3.2,5,3,60%
+Gina Chavez,Education,3.0,1,2,0%
+Bryan Miller,Communication Studies,3.5,4,3,75%
+Matthew Normand,Art  Art History,4.0,1,4,100%
+Hsinyu Lin,Art  Art History,1.0,2,3,0%
+Katharine Free,Theater,3.0,1,3,0%
+Kim Harris,Theological Studies,3.5,14,2.5,72%
+Corinne Sitbon-Slosburg,Modern Languages & Literatures,0.0,0,0,N/A
+Angelique Allain,French,5.0,1,3,100%
+Xiaolong Wang,Economics,2.4,14,4.1,22%
+Oyku Lyigun,International Business,1.0,1,5,0%
+Juliet Anyanwu,Education,0.0,0,0,N/A
+Charolette Radler,Theological Studies,0.0,0,0,N/A
+John Becker,Theology,4.3,3,2.3,67%
+Ben Afshar,Mathematics,0.0,0,0,N/A
+Ai Li,Philosophy,2.0,3,3.3,0%
+Marc Newman,Film amp Television,2.0,2,4.5,0%
+Benjamin Finck,Chemistry,4.8,4,3.5,100%
+Van Partible,Animation,0.0,0,0,N/A
+Yu Fang,Biology,0.0,0,0,N/A
+Timothy Zink,Business,0.0,0,0,N/A
+Nicholas Thacker,Film amp Television,4.0,2,1.5,100%
+Liza Taylor,Political Science,4.0,4,4.2,75%
+Ron Perry,Chemistry,0.0,0,0,N/A
+Melodie Grubbs,Studio Art,5.0,1,3,100%
+Mariano Bertucci,History,4.3,15,2.7,74%
+Michelle Nava,English,5.0,2,2.5,100%
+Edward Park,Sociology,0.0,0,0,N/A
+Peter Hoffman,Sociology,0.0,0,0,N/A
+Natasha Miric,Sociology,4.2,15,1.8,60%
+Deanna Cooke,Psychology,1.0,2,4,0%
+Ronald Rozar,Biology,5.0,2,2.5,100%
+Terry Dobson,Studio Art,0.0,0,0,N/A
+Priscilla Leiva,Chicano Studies,4.5,2,3,100%
+Julia Pelikhova,Education,0.0,0,0,N/A
+Kuo-Sheng Ma,Electrical Engineering,2.7,8,3,50%
+Mark Lucas,Finance,4.3,4,2.5,75%
+Adriana Sanford,Business Law,5.0,9,1.9,100%
+Philip Reed-Butler,Theological Studies,3.2,18,2.8,67%
+Trevor Wiseman,Education,5.0,1,2,100%
+Yan Julian Zhang,Finance,5.0,2,2,100%
+Jennifer Williams,African-American Studies,4.6,5,2.2,100%
+Benham Ziaei,Mathematics,3.5,6,3.2,67%
+kevin peters,English,0.0,0,0,N/A
+Allyson Parks,Political Science,0.0,0,0,N/A
+Giovan Alonzi,English,0.0,0,0,N/A
+Lisa Herzog,Business Law,5.0,6,2,100%
+Oscar King IV,Asian Pacific American Studies,5.0,1,4,100%
+Alissa Volosin,Computer Science,2.6,5,3.4,40%
+Alex Wong,Computer Science,4.0,3,4,67%
+Christina Vasquez,Biology,0.0,0,0,N/A
+David Idol,Greek,2.7,3,3.3,34%
+Mary-Jo Apigo,Education,0.0,0,0,N/A
+Tara Pixley,English,5.0,1,4,100%
+Nader Saniei,Engineering,3.0,2,3.5,50%
+Wind Woods,Theater,0.0,0,0,N/A
+Deland Use,Film,0.0,0,0,N/A
+Anthony Markovich,Marketing,0.0,0,0,N/A
+Mahmoud Salari,Economics,4.5,4,1.8,100%
+Karen Holland,Theater,5.0,2,1.5,100%
+Juan Garcia Torres,Philosophy,3.6,9,3,67%
+James Gregg,Dance,5.0,1,2,100%
+Deborah Sneed,Art & Art History,5.0,1,3,100%
+Paul Colin,Liberal Studies,2.0,1,3,0%
+Daisy Cheng,Mathematics,2.0,8,4.3,25%
+Matthew Dillon,Classics,4.7,3,3,100%
+Shane Andrews,Communication Studies,2.0,4,3,25%
+Sr. Le,Philosophy,2.0,1,3,0%
+Sergio Juarez,Communication Studies,5.0,1,3,100%
+Stefan Bradley,African-American Studies,4.8,4,3.2,100%
+Mike Accavitti,Business,5.0,1,3,100%
+Amy Lauer,Psychology,0.0,0,0,N/A
+Catherine Osborne,Theological Studies,5.0,2,1.5,100%
+Natasha Neuman,Education,5.0,1,2,100%
+Aristotle Mosier,Education,0.0,0,0,N/A
+Dallas King,Film & Television,5.0,4,1.8,100%
+Alexandra Raleigh,Political Science,5.0,1,4,100%
+Danielle Heitmuller,Animation,5.0,1,3,100%
+Margaret Oberman,Film & Television,4.8,4,2.8,100%
+Karen Papazian,Business,3.8,6,2.2,75%
+Patricia Meyer,Film & Television,5.0,2,2.5,100%
+Elmira Melgoza,Mathematics,0.0,0,0,N/A
+Paul Vu,Psychology,2.0,1,4,0%
+Michael Moore,Accounting,1.0,4,4.2,0%
+kim sunai,Civil Engineering,0.0,0,0,N/A
+Clark Zhu,Film,5.0,4,3,100%
+Melissa Chadburn,English,1.0,1,5,0%
+Steven Pieragastini,Asian Pacific American Studies,2.0,1,3,0%
+Nigel Billings,Engineering,3.2,5,3.2,60%
+Nicole Charky,Marketing,5.0,1,2,100%
+Laura Bloomfield,Engineering,3.2,5,3,40%
+Scott Leonard,Marketing,2.0,1,4,0%
+Sarah Beckmann,Archaeology,4.0,1,4,100%
+Samuel Beckelhymer,Greek,5.0,3,2.3,100%
+Angela Torres Camarena,Film amp Television,4.0,1,2,100%
+Frank Caponi,Civil Engineering,5.0,1,1,100%
+Ariel Brice,Studio Art,4.0,1,3,100%
+Ronnie Clark,Theater,5.0,3,2.7,100%
+Phoebe Mengxiao Tang,Political Science,0.0,0,0,N/A
+Michael Tang,Art & Art History,0.0,0,0,N/A
+Indre McGraw,Art & Art History,5.0,1,3,100%
+Christina Bodie,Dance,0.0,0,0,N/A
+Cody Brown,Political Science,4.3,4,2.8,75%
+Kapse Anupama,Liberal Studies,0.0,0,0,N/A
+Simon Kim,Theological Studies,4.0,1,3,100%
+Taryn Vanderhoop,Dance,2.0,4,3.5,20%
+John Todd,Dance,5.0,1,2,100%
+William McCormack,Health Sciences,5.0,2,3,100%
+Mariya Vizireanu,Political Science,5.0,1,2,100%
+Torrey Lindsay,Theater,3.0,1,3,100%
+Kim Rohm,Marketing,3.0,1,2,100%
+Kelly Watson,Business,0.0,0,0,100%
+Albert Minette,Music,2.0,1,2,0%
+Whitney Mannies,Political Science,5.0,1,2,100%
+Youyou Tao,Business,4.5,2,2,100%
+Joshua Cohen,Biology,1.0,1,5,0%
+Brian Kotowski,Film & Television,5.0,1,1,100%
+Bruce Kalish,Film & Television,4.0,1,2,100%
+Laurel Butler,Art & Art History,5.0,2,2,100%
+Claire Leon,Aerospace Studies,0.0,0,0,N/A
+Matthew Jung,Education,1.0,1,1,0%
+Nancy Pineda-Madrid,Theological Studies,4.0,1,4,0%
+Oriel Siu,Chicano Studies,5.0,1,1,100%
+Marlon Graf,Business,0.0,0,0,N/A
+Samir Naimi,Studio Art,5.0,1,4,100%
+Dominick Beaudine,English,5.0,2,2.5,100%
+Konstantin Platanov,Economics,3.7,4,3.8,90%
+Mark Macedo,Finance,3.5,2,4,50%
+Ricardo Rocha,Theater,2.0,1,3,0%
+Tatiana Krokar,Animation,0.0,0,0,N/A
+Aaron Smith,Music,5.0,3,2,100%
+Alicia Portnoy,Spanish,4.0,1,3,100%
+Gary Hershberger,Film,5.0,1,2,100%
+Margaret Murphy,Film & Television,5.0,1,2,100%
+Laura Huffman,French,4.5,2,3.5,100%
+Christopher Cappelli,Health Sciences,4.0,1,2,67%
+Barbara Lang,Ethnic Studies,4.9,20,1.6,100%
+Pilar Chavez,Liberal Studies,5.0,1,2,100%
+Ignacio Higareda,Education,4.2,6,2.2,67%
+June Duarte,Dance,4.7,3,1.3,100%
+Marc Pitre,Film & Television,4.8,4,2.8,100%
+Dan Watanabe,Film amp Television,5.0,4,1.3,100%
+Christopher Blakley,History,5.0,1,3,100%
+Lisa Gillespie,Dance,0.0,0,0,N/A
+Leah Buturain,Theological Studies,3.0,2,3.5,25%
+Lehr Beidelschies,Film & Television,0.0,0,0,N/A
+Becky Chola,Chicano Studies,5.0,1,1,100%
+Robert Clark,Business,0.0,0,0,N/A
+Plamena Karadanova,Dance,0.0,0,0,N/A
+Robyn Anderson,Computer Science,0.0,0,0,N/A
+Glenn Grishkoff,Art & Art History,0.0,0,0,100%
+Eric Strauss,Environmental Science,5.0,1,1,100%
+Shira Shafir,Biology,4.0,1,3,100%
+Mehrdad Sharbaf,Computer Information Systems,3.0,6,2.8,34%
+Rich Martini,Film amp Television,2.5,6,1,50%
+Zining Li,Accounting,4.2,9,3.8,92%
+Jennifer Jones,Political Science,3.0,9,4,34%
+Charles Peterson,Art & Art History,4.2,6,4,67%
+Anthony Menendez,Accounting,4.0,4,3.7,82%
+Kristi Lobitz,Music,3.1,28,3.3,50%
+Gene Park,Political Science,3.6,15,3.7,60%
+Carole Neal,Communication Studies,0.0,0,0,N/A
+Paul Chitlik,Film & Television,4.8,7,2.4,100%
+Leena Pendharkar,Film & Television,3.0,2,4,50%
+Kurt Daugherty,Film & Television,4.0,2,2,50%
+Bryan Wuest,Film & Television,5.0,1,3,100%
+Lan Ngo,Asian Pacific American Studies,4.4,5,2.6,86%
+Scott Heinzerling,Dance,2.4,7,3.1,0%
+Tracey Colvin,English,4.2,66,3,N/A
+Molly Youngkin,English,4.2,18,3.6,50%
+Feryal Cherif,Political Science,4.8,7,2.7,100%
+Sarah Bittick,Biology,5.0,1,4,100%
+Peter Egan,Film,5.0,2,2,100%
+Xiaojing Sun,Chinese,5.0,2,3,100%
+Jonathan Rothchild,Theology,4.6,28,2.3,75%
+Ricardo MacHon,Psychology,3.8,46,3.3,34%
+Mary McCusker,Theater,4.5,4,1.2,100%
+Richard Hadley,Film & Television,5.0,2,2.5,100%
+Elizabeth Henley,Theater,4.5,2,1.5,100%
+Laura Massa,Psychology,4.5,7,2.7,67%
+Jacqueline McSweeney,Environmental Science,1.6,5,4.8,0%
+Timothy Hogue,Theological Studies,4.3,7,1.7,86%
+Sami Siegelbaum,Art  Art History,4.7,3,3,100%
+Blake Mellor,Mathematics,3.1,43,3.6,89%
+Nicholas Toghia,Business Law,3.7,43,3,77%
+Jok Madut Jok,History,3.8,46,3.2,20%
+Dorothea Herreiner,Economics,3.3,53,4.4,28%
+Debra Watson,Art & Art History,1.0,2,2.5,0%
+Stacey Cabaj,Theater,5.0,3,3,100%
+Shan Wang,Accounting,3.2,12,3.5,50%
+Brian Sisselman,Film & Television,1.0,1,1,50%
+Michael Manoogian,Engineering,4.7,12,1.9,100%
+Rachel Fox,Theological Studies,4.2,13,2.6,93%
+Jay Potter,Theology,4.5,2,1.5,100%
+Danielle Gibson,English,3.7,8,3.6,63%
+Jason Baehr,Philosophy,4.3,37,2.5,78%
+Sohvi Heaton,Business,3.6,13,2.6,62%
+William Washington,African-American Studies,0.0,0,0,N/A
+Catharine Christof,Theater,4.9,4,1,100%
+Eddie Malone,English,3.6,6,2.3,0%
+Sabine Huemer,Psychology,4.8,15,2.3,100%
+Edward Park,Ethnic Studies,3.2,39,3.4,63%
+Alex Jacoby,History,2.2,6,4.2,17%
+Jonathan Medici,Film & Television,5.0,2,2.5,100%
+Vanessa Newell,Film & Television,3.6,6,2.7,75%
+Sarah Mitchell,Chemistry,5.0,3,3,100%
+Kalliopi Kefalas,Greek,1.2,5,5,0%
+Matthew Dewey,Communication Studies,3.8,4,3.3,75%
+Michael Kang,Film,0.0,0,0,N/A
+Ben Radcliffe,Classics,5.0,1,2,100%
+Vanessa Diaz,Chicano Studies,4.1,16,3.6,88%
+Sunai Kim,Civil Engineering,4.0,7,3.9,86%
+Jordan Freitas,Computer Science,2.5,2,3.5,50%
+Kathryn Mouzakis,Chemistry,4.5,10,3.3,100%
+Emily Jarvis,Chemistry,4.0,8,3.5,100%
+Michael Daley,Film & Television,4.3,7,3.4,86%
+Angelique Young,English,4.0,9,3.6,78%
+Mavis Rode,Dance,2.7,3,2.3,100%
+Lawrence Wenner,Philosophy,3.7,16,3,60%
+Joanne Lin,Mathematics,0.0,0,0,N/A
+Jeffrey Wilson,Philosophy,4.1,35,3.3,67%
+Karen Smalley,Film & Television,3.5,2,3.5,67%
+Joseph Hellige,Psychology,5.0,3,3.7,100%
+Josh Caffrey,Art & Art History,5.0,1,4,100%
+Jenny Ferguson,English,3.7,6,2.8,67%
+Yves Vendes,Philosophy,4.0,3,3,67%
+Roxanne Banuelos,Communication Studies,3.5,2,3.5,50%
+Lauren Wilson,Film & Television,4.8,4,2.2,100%
+Brenda Nicolas,Chicano Studies,4.3,3,2,100%
+Nicholas Virginio,Marketing,4.8,5,2.4,100%
+Victoria Graf,Education,3.0,2,2.5,100%
+Martin Nemoianu,Philosophy,4.6,45,3.1,80%
+Margarita Ochoa,History,3.5,30,3.3,58%
+Luis Sanchez Lopez,Chicano Studies,4.0,5,2,80%
+Pauline Ebert,German,4.8,4,2,100%
+Gerald Adler,Business,3.5,16,2.6,100%
+Mark Bernier,Philosophy,4.4,13,2.6,93%
+Corinna Laughlin,Communication Studies,5.0,3,2.7,100%
+Dmitry Kmelnitsky,Art,3.3,8,1.6,50%
+Alejandra Castellanos,Spanish,2.0,1,5,0%
+Skinner Myers,Film amp Television,5.0,2,2.5,100%
+Jenevieve Roper,Health Sciences,2.5,2,3,50%
+Gil Klein,Theological Studies,3.8,10,2.9,50%
+Steven Nygaard,Education,5.0,5,2.2,100%
+Tim Fitzgerald,Theater,5.0,15,1.7,100%
+Arthur Gross-Schafer,Business,4.3,62,3.5,85%
+Tyler Degroot,Accounting,5.0,1,4,100%
+Michael Berg,Mathematics,3.8,44,3.6,67%
+Stella Oh,Ethnic Studies,4.3,37,2.4,100%
+Cara Anzilotti,History,3.9,82,3.6,79%
+Roberto Cancio,Sociology,4.8,28,3.3,93%
+Andres Matlock,Classics,5.0,3,3,100%
+Laura Harrington,Film & Television,5.0,2,3.5,100%
+Dermott Walsh,Theology,4.6,13,2.5,100%
+Oscar Barragan,Philosophy,4.0,2,2,50%
+Meric Keskinel,Economics,3.9,51,2.5,80%
+Cecilia Gonzalez-Andrieu,Theology,3.4,16,3.2,50%
+Zbigniew Przasnyski,Business,4.4,20,3.9,67%
+Ann LE,Studio Art,3.9,10,3.2,100%
+Walpa D'Mark,Studio Art,5.0,3,2.3,100%
+Stuart Ching,English,4.3,36,2.1,100%
+Myla Bui-Nguyen,Marketing,4.5,12,3.5,100%
+Joshua Hallam,Mathematics,4.7,27,3.4,100%
+Shana Habel,Dance,4.5,2,1.5,100%
+Ani Shabazian,Education,3.0,1,3,67%
+Richard Fox,Political Science,4.5,22,4,75%
+Nina Lozano,English,0.0,0,0,N/A
+Gursel Aliyev,Economics,2.7,3,3.7,34%
+Bernadette Musetti,Education,4.7,10,3.5,91%
+Daniel Jacobs,Business,3.0,7,3.6,58%
+Ulli Ryder,American Studies,3.8,11,1.8,50%
+Carl Urbinati,Biology,4.1,47,3.2,75%
+Min Yoo,Sociology,4.5,2,3,75%
+Christina Eubanks-Turner,Mathematics,3.1,16,3.4,82%
+John Bakas,Theology,3.0,12,2.6,0%
+Joshua Spizman,Finance,3.7,14,3.3,58%
+Brendan Smith,Mechanical Engineering,3.0,4,3.5,72%
+Albaro Ibarra,Marketing,5.0,2,2,100%
+Thomas Reilly,Chemistry,3.5,30,3.2,38%
+Emma Benayoun,Film & Television,2.0,1,3,67%
+Peter Hoffman,Geography,3.7,50,2.4,100%
+Michelle Miller,Economics,4.2,18,3.6,84%
+Scott Delanty,Accounting,3.7,33,3.6,56%
+Fatima Rahman,Political Science,5.0,1,2,100%
+Christopher SooHoo,Art & Art History,3.3,4,3.3,75%
+Rob Burchfield,Graphic Arts,3.8,24,2.5,100%
+Monique Mansour,Communication Studies,4.5,16,2.4,88%
+Miranda Banks,Film & Television,4.0,3,3,100%
+Andrea Odinov,Theater,5.0,2,3,100%
+Melissa Weitenberner,Music,5.0,1,2,100%
+Kirstin Noreen,Art History,3.8,36,3.8,75%
+Leena Hingnikar,Business Law,3.3,3,3,67%
+Andrea Schlaerth,Business,4.0,2,1,75%
+Anupama Kapse,Film & Television,5.0,1,4,100%
+Jay Williams,Film & Television,5.0,1,2,100%
+Brian Treanor,Philosophy,4.9,55,2.9,84%
+Velitchka Kaltcheva,Marketing,3.6,24,2.3,56%
+Maria Vasquez,Biology,3.3,15,3.1,72%
+Nancy Fujishige,Biology,3.5,2,4,67%
+Elizabeth Burke,Psychology,5.0,1,1,100%
+Kerstin Fisk,Political Science,4.2,17,3,80%
+Amanda Whidden,Communication Studies,4.9,19,1.6,100%
+Terry Lenihan,Fine Arts,2.6,13,3.6,0%
+Brad Stone,Philosophy,3.8,54,3.5,43%
+Matthew O'Neill,Biology,3.0,2,3.5,50%
+Shanna Hughes,Dance,4.3,6,1.8,84%
+David Offenberg,Finance,3.9,55,3.8,57%
+Brandon Shamim,Business,4.0,10,1.8,90%
+William Parham,Education,5.0,1,4,100%
+Maria Elena De Las Carreras,Film & Television,4.3,17,3.4,88%
+Dennis Kwong,Film,3.0,9,2,25%
+Kristen Smiarowski,Fine Arts,3.9,12,2,78%
+Donald Jenkins,Health Sciences,4.0,1,1,100%
+Glenn Gebhart,Film,2.9,6,2.7,50%
+Mandy Korpusik,Computer Science,4.3,3,3.7,100%
+Derrick Noyce,Music,3.4,14,3.5,80%
+Darrin Murray,Communication Studies,3.8,71,3.4,44%
+Dominique Isner-Ball,French,3.8,20,3,50%
+Elizabeth Dewey,Film & Television,4.5,4,2.5,100%
+Kennedy Wheatly,Film,2.5,32,2.3,75%
+Timothy Fitzgerald,Theater,5.0,1,2,100%
+Jayant Rao,Economics,4.5,2,3,100%
+Patricia Oliver,Communication Studies,5.0,5,1,100%
+James Bunker,Communication Studies,3.5,20,3.4,80%
+Sarah Emanuel,Theological Studies,3.8,5,1.8,100%
+Robert Kritzler,Accounting,3.9,7,3.6,43%
+James Taylor,Philosophy,0.0,0,0,N/A
+Yanping Ma,Mathematics,3.2,36,3.1,44%
+Joseph Weber,Civil Engineering,4.0,5,4.4,80%
+Townsend Scholz,English,3.2,5,3.8,67%
+David Garber,Film amp Television,2.7,7,2.7,50%
+Anthony Perron,History,4.4,43,2.6,100%
+James Sadler,History,2.5,4,4.2,25%
+Jay Kumar,Theological Studies,4.6,43,2.6,89%
+Han Dai-Yu,Art & Art History,3.7,14,2.9,72%
+Andrea Plate,Sociology,5.0,1,2,100%
+Darlene Zarazu,Sociology,5.0,1,2,100%
+Paul Humphreys,Music,3.0,20,2.8,0%
+Mitch Rufca,Business,5.0,4,1,100%
+Thomas Laurent,Mathematics,3.7,15,3.5,70%
+Joshua Mason,Philosophy,3.8,7,3.3,58%
+Kennedy Wheatley,Women's Studies,5.0,1,2,100%
+Alex Martinian,Business,0.0,0,0,N/A
+Lei Huang,Engineering,2.4,9,4,0%
+David Berube,Physics,4.1,21,3.4,100%
+Cristian Searchar,Latin,0.0,0,0,N/A
+Oskar Toruno,Film,3.8,9,1.6,67%
+Virginia Saya,Music,3.9,12,2.5,50%
+Joseph Perry,Political Science,0.0,0,0,100%
+Sean Fenton,Theater,5.0,32,1.1,100%
+Amber Bratcher-Covino,Biology,3.3,3,3,80%
+Alexandra Sturm,Psychology,3.9,9,3.9,70%
+Mary Kuryla,Film,4.3,9,2.6,100%
+Tom McNulty,Film & Television,0.0,0,0,N/A
+Marne Campbell,African-American Studies,4.1,16,2.3,100%
+Brian Rountree,Communication Studies,5.0,1,1,100%
+Daniel Freedland,Communication Studies,4.1,7,2.1,100%
+Yongsun Paik,Business Administration,2.7,42,4,0%
+Joseph Hattendorf,Accounting,3.6,14,3.5,64%
+Marc Calera,Theater,0.0,0,0,N/A
+Lambert Doezema,Chemistry,4.6,63,3.5,94%
+Jeff Phillips,Physics,4.0,18,3.1,84%
+Prachi Jain,Economics,4.6,11,3.9,92%
+Robert Winsor,Business,4.7,46,2.4,100%
+Kimberly Rohm,Marketing,4.0,2,1.5,100%
+Mitchell Hamilton,Marketing,4.5,13,2,100%
+Edgar Rothermich,Audio Production,4.7,10,3.6,100%
+Diane Meyer,Fine Arts,3.7,15,2.6,25%
+Stephanie Beaudion,Health Sciences,3.0,2,4,67%
+Leena Pendharker,Film,2.9,14,2.7,50%
+Grace Kao,Theology,4.6,5,2.2,92%
+Robert Senter,Chemistry,3.8,16,3.1,87%
+Frederick Ayeroff,Film & Television,4.9,10,1.6,100%
+Thomas Ford,Environmental Science,4.3,4,2.5,100%
+Amy Woodson-Boulton,History,4.5,52,3.3,100%
+Darin Earley,Education,5.0,1,2,100%
+Nyema Guannu,Economics,4.7,32,2.3,95%
+Kenneth Rudnick,Law,3.6,60,3.6,54%
+Ela Freeman,Spanish,3.5,2,4,50%
+Stephen Heller,Chemistry,4.6,16,3.5,100%
+Zhen Tang,Marketing,5.0,7,2.2,100%
+Chaya Crowder,Political Science,1.5,17,4.7,43%
+Mark Diamond,Theological Studies,4.0,9,2.6,75%
+Kristo Gobin,Communication Studies,4.9,34,2.3,97%
+Abran Padilla,Business,2.0,3,4.7,50%
+Kristen Covino,Biology,3.2,9,3.4,40%
+Matthew Schlissel,Film & Television,5.0,2,2,100%
+Patricia Martinez,Management,3.2,44,2.9,43%
+Ian Moore,Philosophy,4.3,3,2.3,100%
+Anna Winget,Theater,0.0,0,0,N/A
+Teah Goldberg,English,4.8,38,2.7,98%
+Sharon Mooney,Film  Television,4.4,7,3.4,75%
+Arik Greenberg,Theology,4.4,39,1.9,92%
+Todd Shoepe,Natural Sciences,4.8,40,3.7,100%
+Robert Musci,Chemistry,0.0,0,0,100%
+Kyra Pearson,Communication Studies,4.0,39,2.9,82%
+Arthur Gross-Schaefer,Business Law,4.5,13,3.4,91%
+Sunil Murthy,Business,3.0,1,3,100%
+Lauren Cole,History,3.8,15,3.6,34%
+Ashley Ireland,Education,3.0,1,3,0%
+Ayser Sulman,Film & Television,0.0,0,0,N/A
+William Kinsella,Accounting,3.4,44,3.5,46%
+Carolyn Viviano,Biology,4.6,12,2.6,100%
+Eric Perl,Philosophy,3.2,40,3.8,46%
+K.J. Peters,English,4.0,46,3.5,77%
+Sean Dempsey,History,4.8,16,2.2,100%
+Derek D'Sa,Finance,4.0,15,3.1,90%
+Douglas Burton-Christie,Theological Studies,4.0,7,2.7,100%
+Michael Brodsky,Fine Arts,2.3,45,3.1,60%
+Heidi Fessler,Archaeology,5.0,1,3,100%
+Nigel Raab,History,3.6,80,3.3,65%
+Oscar Tovar,Philosophy,4.7,16,2.8,100%
+Damon Hines,Communication Studies,4.2,33,2.1,80%
+Natalie Ortiz,Mathematics,4.6,39,2.4,96%
+Kevin Wetmore,Theater,4.7,24,2.2,100%
+Sonia Desai,Theater,3.5,2,3,50%
+Dana Resnick,Theater,3.9,10,2.5,72%
+Frank Sheppard,Theater,4.5,4,1.8,100%
+Dominique Braxton,Marketing,4.0,1,2,100%
+Joshua Beckett,Theology,3.8,6,2.5,75%
+Trevor Zink,Business,3.8,28,3.8,73%
+Charmaine Kaimikaua,Communication Studies,3.1,16,1.8,60%
+Mobashera Hallam,Mathematics,3.7,15,3.3,79%
+Laura Smyth,Dance,3.5,4,1,100%
+Ingrid Greene,Management,4.3,3,3,100%
+Marcela Garcia-Romero,Philosophy,4.0,6,3.5,67%
+Dustin Reece,Business,4.2,15,2.3,100%
+Sean Winkler,Philosophy,5.0,12,2.5,100%
+Rosanna Lu,Theology,3.7,3,3.3,75%
+Erin Kaplan,Economics,3.7,11,2.9,79%
+Ashleigh Campi,Political Science,4.1,11,3.1,75%
+Brian Reedy,Theology,4.7,10,2.2,92%
+Eugene Brancolini,Communication Studies,4.3,15,2.2,86%
+Stephen Ujlaki,Film,0.0,0,0,100%
+Michael Courey,Theological Studies,5.0,1,2,100%
+Linh Hua,English,5.0,1,3,100%
+Charles Erven,Theater,2.7,3,4.3,0%
+Maxellende Ezin,Biology,2.5,14,4.5,42%
+Karen Ellis,Mathematics,4.1,93,2.5,84%
+Nicole Bouvier-Brown,Chemistry,3.1,40,4,46%
+Alexander Zambrano,Philosophy,4.3,12,3.1,90%
+Chela Willey,Psychology,4.8,22,3.1,100%
+Darnise Martin,Theology,3.2,49,2.7,46%
+Eugenio Volpe,English,4.5,11,2.1,94%
+Sydney Bright,Animation,0.0,0,0,100%
+Negin Ghavami,Psychology,2.7,16,4.1,25%
+Jeremy McCallum,Chemistry,4.8,39,3.5,100%
+Michael Foy,Psychology,3.6,90,3.5,66%
+Mark Anderson,History,4.6,7,3,93%
+Tyler De Groot,Accounting,4.4,7,3.7,93%
+Micah Officer,Finance,3.3,7,3.9,34%
+Nnogo Obiamiwe,Business Law,4.4,17,2.5,93%
+Aimee Ross,English,4.8,18,2.9,100%
+Nancy Coster,Accounting,4.5,55,3.5,91%
+Vincent Coletta,Physics,3.0,16,3.5,20%
+Rafiql Noorani,Engineering,2.6,28,2,50%
+Chris Hong,Mechanical Engineering,1.0,1,4,0%
+Junyuan Lin,Mathematics,4.0,1,2,100%
+Kaelyn Sabal-Wilson,African-American Studies,0.0,0,0,100%
+Au Vo,Computer Information Systems,2.3,3,3,34%
+Swarup Joshi,Economics,3.9,15,3.6,80%
+Gabriele Varieschi,Physics,4.7,9,1.9,100%
+Julian Saint Clair,Marketing,4.7,27,2.3,85%
+Juan Ortiz,Mathematics,4.4,18,2.7,85%
+Nathan Sessoms,Sociology,5.0,5,1.6,100%
+Gregory Ruzzin,Film amp Television,3.7,3,2.7,67%
+Edward Mosteig,Mathematics,4.6,34,3,95%
+David Parrish,Film,0.0,0,0,N/A
+Charles Vance,Management,4.0,36,2.3,100%
+Danielle Borgia,American Studies,3.1,41,3.8,46%
+Zahra Alavi,Physics,3.7,10,2.9,70%
+Gregory Lontok,Computer Information Systems,5.0,9,3.2,100%
+Lisa Daggett,Business,4.4,7,2.4,90%
+Christopher Gipson,Classics,0.0,0,0,100%
+Martina Ramirez,Biology,4.3,38,2.2,25%
+Paul Harris,English,3.8,23,2.9,90%
+Nora Murphy,Psychology,3.9,29,3.1,93%
+Kayoko Okada,Psychology,2.8,15,3.8,42%
+Klaus Shipman,Film & Television,2.7,3,4.7,34%
+Sarah Babbitt,Philosophy,0.0,0,0,N/A
+Vivian Lezak,Mathematics,4.2,24,2.7,93%
+Susan Elkinawy,Finance,3.9,31,3.5,75%
+Germano Saracco,Film amp Television,0.0,0,0,N/A
+Mark Gaynor,Philosophy,2.5,2,2.5,34%
+Yu Li,Modern Languages & Literatures,5.0,2,3.5,100%
+Alexander Glosenberg,Entrepreneurship,3.0,9,3.9,54%
+T.J. Harper,Music,3.7,3,3,80%
+Peter Ferguson,Electrical Engineering,4.7,3,3.3,100%
+Lawrence Lacey,Theater,5.0,6,3.3,100%
+Wendy Binder,Biology,3.5,48,3.4,34%
+Timothy Shanahan,Philosophy,3.5,46,3.4,44%
+Anthony Hui,Mathematics,3.0,22,2.3,50%
+Kala Seal,Business,3.1,62,4.2,50%
+Constance Chen,History,3.8,62,2.8,100%
+Ellen Ensher,Management,4.0,40,2.3,100%
+Bradley Mankoff,Political Science,4.0,1,3,0%
+Anna Terzyan,Economics,3.2,32,2.9,69%
+Fulya Ersoy,Economics,4.6,9,3.7,100%
+Mark Saya,Music,3.9,16,3.6,34%
+Elizabeth Quinn,Film & Television,4.8,4,2.8,100%
+Amir Hussain,Theology,4.9,99,2.3,84%
+Kimberly Moekle,English,5.0,4,3.2,100%
+Kenneth Provencher,Film & Television,4.6,8,2.7,100%
+Andrew Dilts,Political Science,5.0,23,4,100%
+Catherine Peters,Philosophy,3.3,11,3.5,62%
+Marisa De Silva,Music,5.0,2,2,100%
+Cory Evans,Biology,2.5,7,4.6,50%
+Jason Jarvis,Communication Studies,3.2,18,3.3,48%
+Gabriele Magni,Political Science,3.9,7,2.9,75%
+Nirinjan Khalsa,Theological Studies,4.6,9,2.4,82%
+Sheila Forman,Psychology,4.3,15,2.5,67%
+Sandibel Borges,Women's Studies,5.0,3,2.7,100%
+Daphne Sicre,Theater,3.4,5,3,60%
+Mark Chilingar,Psychology,2.1,35,2.1,9%
+Lauren Guerra,Theology,2.7,7,3,50%
+Matthew Petrusek,Theology,3.8,32,3.3,76%
+Joshua Kulmac Butler,English,3.4,20,3.4,43%
+Allison Noyes,Communication Studies,4.2,16,3.5,85%
+Rochelle Webb,Entrepreneurship,3.7,3,4.3,75%
+Mark Chillingar,Psychology,0.0,0,0,N/A
+Tyler Harlan,Urban Studies,3.8,9,3.4,92%
+Pippa Drennan,Biology,4.0,31,2.7,100%
+Sheilah Jones,Theology,3.5,52,3.1,43%
+Linda Leon,Business,3.2,52,3.6,50%
+Shirin Birjandi,Biology,4.1,15,3.2,74%
+Shirin Mollah,Economics,1.4,5,3.6,25%
+Maureen Fitzsimmons,Liberal Studies,5.0,9,2.6,100%
+Diana Santacrose,Psychology,2.3,13,3.9,29%
+Megan Gallipeau,Mathematics,5.0,7,2.6,100%
+Margarete Feinstein,Theological Studies,3.6,20,3.7,74%
+David Kovacs,Philosophy,4.1,24,2.5,88%
+Stacee Comage,Film & Television,5.0,1,2,100%
+Madhu Viswanathan,Marketing,1.5,19,2.2,23%
+Eric Young,Economics,4.4,40,3,91%
+Josette Banks,Psychology,2.8,25,3.9,56%
+Eddie Becton,American Studies,3.9,22,2.2,100%
+Christopher  Murphy,Philosophy,2.3,23,3.7,40%
+Robert Simmons,Film & Television,4.5,32,3.5,67%
+Yanjie Wang,Asian Pacific American Studies,3.9,10,3.7,73%
+Saori Shiraki,Chemistry,3.7,22,3.5,76%
+Francisco Valle,Business,3.3,7,1.9,67%
+Kevin McDonald,History,2.8,22,3.7,36%
+Devon Golaszewski,History,4.2,5,2.2,84%
+Sariolghalam Mahmood,Political Science,4.5,8,3.7,95%
+Stephanie Limoncelli,Sociology,4.5,21,3,84%
+Barbara Marino,Engineering,4.3,18,3.1,50%
+Delaram Yazdansepas,Computer Science,3.0,2,4,80%
+Mark Aloysius,Theological Studies,2.0,1,3,80%
+Jill Nunes-Jensen,Dance,3.4,5,2.6,60%
+William McClain,Communication Studies,4.9,12,2,100%
+Sara Simpson,Psychology,4.8,4,3.2,75%
+Cathleen McGrath,Business,2.7,36,2.6,29%
+James Faught,Sociology,3.4,37,3.4,0%
+Erika Yagi,Modern Languages & Literatures,5.0,1,2,100%
+Petra Liedke - Konow,German,4.9,19,2.2,60%
+Daniela Chavez,English,0.0,0,0,100%
+Janik Abishek,Theology,0.0,0,0,N/A
+Christopher Kaczor,Philosophy,3.3,53,3.1,80%
+John Reilly,English,1.7,46,4.1,0%
+Bassam Farah,Business,0.0,0,0,N/A
+Briana Maturi,Education,5.0,2,1.5,100%
+Sina Zare,Business,0.0,0,0,100%
+Scott Roniger,Philosophy,4.0,9,3.6,73%
+Emma Davis,Economics,2.9,11,2.4,54%
+Soumya Mukherjee,Business,2.4,9,4.2,62%
+Matthew Siniawski,Mechanical Engineering,3.9,13,2,60%
+Emma Cones,African-American Studies,1.0,2,2.5,N/A
+Carlos Villegas,Economics,0.0,0,0,100%
+Tory Smith,Theater,0.0,0,0,100%
+Jade Chen,Accounting,1.0,1,5,100%
+Judy Park,English,3.2,42,3.3,78%
+Luke Blong,Philosophy,0.0,0,0,N/A
+Melissa Fitzpatrick,Business,0.0,0,0,100%
+Eric Martin,Theology,5.0,1,2,100%
+Robin Wang,Philosophy,4.1,30,2.2,84%
+Elham Ghashghai,Engineering,0.0,0,0,N/A
+Tyler Horvath,Physics,0.0,0,0,100%
+Hossein Asghari,Computer Science,2.8,6,4.3,63%
+Anna Papazian,Finance,0.0,0,0,100%
+Jain Abhishek,Theology,0.0,0,0,N/A
+Victor Lin,Engineering,0.0,0,0,N/A
+Charles Jurgensmeier,Theological Studies,2.0,1,4,100%
+Sijun Wang,Business,0.0,0,0,N/A
+Vincente Reja,Philosophy,4.0,1,3,100%
+Miguel Reyna,Education,0.0,0,0,N/A
+Monica Cabrera,Modern Languages & Literatures,4.3,50,3.5,75%
+Christina Beck,Film & Television,0.0,0,0,N/A
+Douglas Eboch,Film & Television,0.0,0,0,100%
+Adam Morgenstern,History,0.0,0,0,100%
+Carla Moreno,Economics,5.0,1,3,100%
+Anthony Kmetty,Business,4.6,28,1.8,90%
+Tony Kmetty,Business,4.6,14,1.4,93%
+Gloria Shin,Film  Television,2.8,17,3.2,56%
+William Shaules,Theology,4.0,58,2.8,82%
+Gloria Shin,Film & Television,0.0,0,0,N/A
+Jodi Finkel,Political Science,3.6,119,4.3,71%
+Megan Barnes,English,4.9,56,2.4,99%
+Chun Lee,Finance,2.3,44,3.3,0%
+Rebecca Avalos,Communication Studies,5.0,16,3.6,100%
+Luciano Manfredi Console,Mathematics,3.7,7,3.1,100%
+Sina Kramer,Women,4.5,31,3.7,89%
+Wesley Kading,Business,4.6,27,2.7,89%
+Dee Filecia,Political Science,4.0,4,2,75%
+Bryan Wisch,English,4.9,7,1.8,100%
+Andrew Forney,Computer Science,3.9,36,3.9,76%
+Martin Ngo,Film,0.0,0,0,N/A
+Eduardo Carmona,Film,0.0,0,0,N/A
+Evan Cheney,Philosophy,4.0,1,2,100%
+Ayser  Salman,Film & Television,5.0,1,2,100%
+Pelin Giwa,Physics,1.0,1,4,N/A
+Sonya Kemp,Management,4.0,1,3,100%
+Daniela  Barrero,English,5.0,1,1,100%
+Panteleimon Vassilakis,Film & Television,0.0,0,0,N/A
+Nathan Chan,Political Science,0.0,0,0,100%
+Anupama Prabhala,Pacific & Asian Studies,2.0,1,3,N/A
+Neelanjana Banerjee,Pacific & Asian Studies,0.0,0,0,N/A
+Katherine Jackson,Art & Art History,0.0,0,0,N/A
+Marc Valera,Theater,0.0,0,0,N/A
+Andy Langdon,Film,0.0,0,0,N/A
+Tom Bielek,Business,0.0,0,0,N/A
+Robin Wilson,Mathematics,0.0,0,0,N/A
+Amanda Malone,English,0.0,0,0,N/A
+Pablo Robles,History,0.0,0,0,N/A
+Jonathan Shoemaker,Philosophy,0.0,0,0,N/A
+Wayne Hung,Chemistry,5.0,1,2,100%
+Sandy Ko,Chinese,5.0,1,3,100%
+Layla Karst,Theological Studies,0.0,0,0,N/A
+Vincent DeLuca,Film & Television,4.0,1,1,100%
+Albert Gasser,Film & Television,0.0,0,0,N/A
+Christopher Cormier,Education,1.0,1,2,N/A
+Timothy Freire,Philosophy,0.0,0,0,N/A
+Elliott Piros,History,0.0,0,0,N/A
+Malcolm Frierson,African-American Studies,5.0,1,2,100%
+Kenneth  Garett ,Education,0.0,0,0,N/A
+Adam Thal,Political Science,5.0,1,2,100%
+Nathalie Saededdin,Business,5.0,1,2,100%
+Le Wang,Mathematics,0.0,0,0,N/A
+Rebecca Wall,History,0.0,0,0,N/A
+Jessica Martinez-Tebbel,Women's Studies,4.3,4,3,100%
+Michael Tang,Fine Arts,4.1,57,3.5,92%
+Boniface Mbouzao,Computer Science,0.0,0,0,100%
+Eliza Rodriguez Y Gibson,Chicano Studies,2.4,13,4,34%
+Laura Poladian,Communication Studies,4.2,24,3,82%
+Therese Edwards,Communication Studies,4.7,46,2.5,100%
+Mariko Rooks,African-American Studies,0.0,0,0,N/A
+Michael Mills,Psychology,3.5,35,2.7,46%
+Ying Sai,Computer Information Systems,3.0,48,2.5,0%
+Anna Harrison,Theology,4.2,37,3.6,86%
+Pamela Sklar,Management,3.9,16,1.6,80%
+Richard Abrams,Psychology,3.0,20,3.6,74%
+Daniel Smith-Christopher,Theology,4.0,76,3.6,77%
+Katerina Zacharia,Classics,3.2,27,3.9,34%
+Monique Turner,Psychology,0.0,0,0,N/A
+Aliaa El Sandouby,Art & Art History,0.0,0,0,N/A
+Fereidoun Jahani,Mathematics,2.1,53,4,29%
+Zaki Eusufzai,Economics,3.0,42,3.1,58%
+Yasaman Ghasemi,Business,3.6,15,3.3,84%
+B.J. Johnson,Computer Science,3.9,25,3.4,75%
+Alexander Diones,Political Science,3.0,1,3,N/A
+Michael Patzia,Philosophy,4.0,29,3.9,80%
+Tyler Edmiston,Computer Science,4.3,4,3.8,100%
+Eric Balmer,Philosophy,4.8,23,2.5,100%
+Cheryl Hertz,Biology,2.1,32,4,30%
+Claudia Sandoval,Political Science,2.3,22,3.9,27%
+Michel van Biezen,Physics,4.3,104,2.4,89%
+Simon Aihiokhai,Theological Studies,3.6,4,3.5,100%
+Evan Gerstmann,Political Science,4.0,87,3.6,72%
+Lucy Cook,Computer Information Systems,1.9,7,2.9,0%
+Emi Harry,Computer Science,0.0,0,0,N/A
+Kimberly Icreverzi,Film,1.4,5,4,0%
+Philip Chmielewski,Engineering,2.9,12,3.3,60%
+Amanda Apgar,Women's Studies,3.8,20,3.9,65%
+Si Jun Wang,Marketing,2.3,9,2.4,67%
+Li Dai,International Business,4.6,62,2.8,91%
+Karen Enriquez,Theology,2.7,17,3.8,29%
+Alessandro Varotto,Chemistry,3.3,25,2.4,72%
+Dean Scheibel,Communication Studies,3.6,17,2.7,38%
+Tracy Tiemeier,Theology,4.6,25,2.8,100%
+Roy Fisher,Theological Studies,4.0,11,2.8,100%
+Matt Stefl,Marketing,4.8,44,3.3,96%
+Sona Gala,Business Law,4.7,21,2.7,94%
+Doris  Baizley,Theater,0.0,0,0,N/A
+Shelby Giles,Communication Studies,0.0,0,0,N/A
