@@ -20,5 +20,16 @@ FROM teachers;
 
 -- Need to convert all strings to integers
 SELECT *
-FROM teachers
-ORDER BY rating DESC, count_ratings DESC;
+FROM teachers;
+
+
+-- Flipping name around
+SELECT
+	name,
+	CONCAT(
+		SUBSTRING(name, LOCATE(' ', CONCAT(name, ' '))+1),
+		', ',
+		SUBSTRING_INDEX(name, ' ', 1)
+	) AS last_first
+FROM teachers;
+	
