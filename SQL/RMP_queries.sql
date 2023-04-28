@@ -32,4 +32,8 @@ SELECT
 		SUBSTRING_INDEX(name, ' ', 1)
 	) AS last_first
 FROM teachers;
+
+SELECT *
+FROM teachers
+WHERE name LIKE 'Robbie Nakatsu';
 	
