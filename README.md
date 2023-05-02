@@ -3,10 +3,10 @@
 **Insight and Analysis**
 
 ## Project Objective
-**The Problem**
+**The Problem:**
 How can Cheddar News and RateMyProfessors effectively provide reliable teacher and class data in order to compete with rising competition such as Coursicle?
 
-**The Solution**
+**The Solution:**
 Through this project, I will identify the areas where RateMyProfessors is limited by comparing it to PROWL data and provide recommendations for Cheddar News to improve the website. 
 
 ## Job Description
