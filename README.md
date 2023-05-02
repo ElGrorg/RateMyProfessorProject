@@ -26,27 +26,27 @@ RMP data includes InstructorID, Instructor, Difficulty, Rating, CountRatings, Wo
 PROWL data includes Title, Subject Description, SubjectID, Subject, Course Number, Section, CRN, InstructorID, Instructor, MeetingDays, Campus, Instructional Methods
 
 ## Notebooks
-### data_collection.ipynb
+### [data_collection.ipynb](DataCollection/data_collection.ipynb)
 Contains all python code for webscraping and creating CSVs for both RateMyProfessors and PROWL. 
 
-### [data_collection_prowl.ipynb](DataCollection/data_collection.ipynb)
+### [data_collection_prowl.ipynb](DataCollection/data_collection_prowl.ipynb)
 Premerged file containing all python code for PROWL data collection.
 
-### data_collection_RMP.ipynb
+### [data_collection_RMP.ipynb](DataCollection/data_collection_RMP.ipynb)
 Premerged file containing all python code for RateMyProfessors data collection.
 
-### data_manipulation.ipynb
+### [data_manipulation.ipynb](DataCleaning/data_manipulation.ipynb)
 Contains all python code used in cleaning the data and converting it to usable info. Specifically changing the format of certain fields. 
 
 - Not mentioned is data cleaning done in Excel, where I created multiple tables used later on in SQL analysis
 
-### sql_analysis.ipynb
+### [sql_analysis.ipynb](SQLAnalysis/sql_analysis)
 Contains all python/MySQL code for running SQL Analysis and generating insight for both datasets.
 
-### Merging_Files.ipynb
+### [MergingFiles.ipynb](Presentation/MergingFiles.ipynb)
 Python file used to merge sql_analysis.ipynb with data_collection.ipynb into presentation.ipynb
 
-### presentation.ipynb
+### presentation.ipynb(Presentation/presentation.ipynb)
 Combined python file formatted for presenting the methods, analysis, and recommendations generated.
 
 ## Future Improvements
