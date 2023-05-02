@@ -35,7 +35,7 @@ Premerged file containing all python code for PROWL data collection.
 ### [data_collection_RMP.ipynb](DataCollection/data_collection_RMP.ipynb)
 Premerged file containing all python code for RateMyProfessors data collection.
 
-### [data_manipulation.ipynb](DataCleaning/data_manipulation.ipynb)
+### [DataManipulation.ipynb](DataCleaning/DataManipulation.ipynb)
 Contains all python code used in cleaning the data and converting it to usable info. Specifically changing the format of certain fields. 
 
 - Not mentioned is data cleaning done in Excel, where I created multiple tables used later on in SQL analysis
