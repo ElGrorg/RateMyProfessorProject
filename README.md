@@ -46,7 +46,7 @@ Contains all python/MySQL code for running SQL Analysis and generating insight f
 ### [MergingFiles.ipynb](Presentation/MergingFiles.ipynb)
 Python file used to merge sql_analysis.ipynb with data_collection.ipynb into presentation.ipynb
 
-### presentation.ipynb(Presentation/presentation.ipynb)
+### [presentation.ipynb](Presentation/presentation.ipynb)
 Combined python file formatted for presenting the methods, analysis, and recommendations generated.
 
 ## Future Improvements
