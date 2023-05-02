@@ -1,0 +1,1397 @@
+name,InstructorID,department,rating,count_ratings,difficulty,would_retake
+Jennifer Abe,308,Psychology,4.1,14,3.6,
+Brian Foster,,American Studies,4.4,58,1.5,
+Najwa Al-Qattan,,History,3.4,73,3.5,0.75
+Dennis Zill,,Mathematics,1.9,66,4.2,
+William Fulco,,Anthropology,4.8,19,1.9,1
+Catie Mihalopoulos,,Classics,3.9,13,2.4,
+Tom Dowd,,Communication Studies,4.1,41,2.5,0.67
+Pat Oliver,,Communication Studies,4.7,27,1.3,1
+Ed Gray,,Business,2.8,21,3,
+Richard Cook,,Mathematics,4,12,2.3,
+Robert Singleton,,Economics,2.4,32,2.9,
+Roy Houston,,Science,4.1,16,2.3,
+Tina Choe,710,Chemistry,4.6,38,3.3,
+Debra Rosser,,Science,5,6,2,
+Gary Kuleck,,Science,3.8,16,2.3,
+Jasper Blystone,,Philosophy,2.9,48,2.2,
+Lawrence Jelinek,,History,2.9,46,2.3,
+Robin Miskolcze,611,English,3.5,25,3.2,1
+Mary Breden,,Music,3.9,29,3.3,
+Stacy Burns,662,Social Science,4,50,2.8,1
+Brian Moss,97,Fine Arts,2.8,26,4.1,0.5
+Bob Ackley,,Fine Arts,4,8,2,
+Karl Snider,,Music,4.8,17,1.3,
+Katharine Noon,373,Fine Arts,4.2,20,2.7,0.67
+Caroline LaMonda,108,Communication Studies,4.9,45,1.3,1
+Chuck Rosenthal,,English,3.4,27,2.2,0.5
+Pat Connolly,,Communication Studies,3.3,40,1.9,
+Larry Bernard,,Psychology,3.5,35,3.3,
+John Dorsey,,Science,4.3,17,2.7,1
+Lucy Wilson,,English,3.4,33,2.8,
+Ralph Quinones,,Business,4.7,86,3.6,1
+Michael Vanbiezen,,Mathematics,4.3,18,2.5,0.5
+Nancy Jabbra,,Women's Studies,1.7,30,4.1,
+Joseph Tiedemann,,History,3.6,49,3.8,
+Mary Ingham,,Philosophy,4.1,21,3.1,1
+Ross Bengel,,Accounting,4.5,16,4.1,
+Michael O'Sullivan,,Psychology,3.7,22,4.1,
+Jose Badenes,,Languages,4.1,27,3.2,
+Allen Gray,,Business,2.1,65,3.3,0
+Megan Granich,,Mathematics,4.5,124,2.6,
+Mark Morelli,,Philosophy,3.1,36,2.9,0
+Curtis Bennett,,Mathematics,4.5,30,2.8,
+John Page,,Engineering,3.5,38,4,0
+Seid Zekavat,,Economics,2.8,41,2.4,
+James Hanink,,Philosophy,3.2,28,3.3,
+Stephanie August,,Computer Science,2.7,25,3.6,
+Philip Dorin,,Computer Science,4.3,13,3.5,1
+Reyna Valenzuela-Cummings,,Communication Studies,4.3,14,1.4,
+Kate Lewis,,Music,5,21,1.1,
+Christina Gold,,History,4.3,22,2.4,0
+Ernesto Sweeney,,History,3.5,35,2.6,
+David Killoran,,English,3.6,17,3.8,
+Karenmary Davalos,,Ethnic Studies,3.4,33,3.8,0.5
+Steve Crissanthos,,History,4.2,43,2.8,1
+M. Cathy McElwain,,Biology,2.4,33,3.6,0.23
+Bruno Rota,,Languages,3.2,13,2.5,
+Jeff Sanny,,Physics,4.6,29,3.1,0.8
+Thomas White,,Business,4.6,25,1.6,
+Annie Liu,,Marketing,3.7,47,2.7,
+Richard Rolfs,,History,3.2,50,3.1,
+Thomas Zachariah,,Mathematics,3.3,57,2.8,0.45
+Connie Weeks,,Mathematics,4.1,41,2.1,
+Cal Caswell,,Business,4.5,21,1.5,
+Lori Bergstrom,,Communication Studies,4.2,40,1.9,
+Jose Saez,,Engineering,4.6,21,1.9,
+Ronald Barrett,,Psychology,2,69,4,
+Ernesto Colin,231,Education,3.1,9,2.4,1
+Richard Gilbert,,Psychology,3.5,42,3.2,0.82
+Kathleen Norris,376,Communication Studies,4.5,37,2.3,1
+Janie Streckenrider,,Political Science,4,15,1.7,1
+George Dasaro,,Accounting,3.8,36,4,
+Leah Pate,,English,4.4,29,3.1,
+Gregori Viens,,Film & Television,2.7,24,3,
+Eduardo Morales,,Mathematics,3.5,38,2.8,
+Scott Cameron,,Philosophy,3.6,61,3.8,
+James Devine,,Economics,2.4,73,3.7,0.28
+Laurie Pintar,,History,4.4,80,3.7,
+Alicia Partnoy,,Languages,4.1,19,2,
+Fred Kiesner,,Business,4.1,44,2.8,
+Linda Bannister,,English,3.3,14,3.3,
+Chuck Erven,,Theater,2.5,20,3.3,0
+Eric Ladizinsky,,Physics,3.5,19,2.4,
+Lev Abolnikov,,Mathematics,2.5,55,3.4,
+Anthony Smulders,,Science,2.3,47,4.2,
+Deena Gonzalez,,Ethnic Studies,2.5,17,3.9,
+Marina Moevs,,Fine Arts,4,24,3.2,0.5
+Alan Falcon,,Accounting,4.3,31,3.5,
+Mladen Milicevic,,Film,4.3,15,2.7,0.89
+James Fredericks,,Theology,3.1,31,3.4,
+Suzanne Larson,682,Mathematics,4.4,22,2.2,0.5
+Rene Topalian,,Biology,4,38,3.2,1
+Susan Scheibler,681,Film,4.1,43,2.3,0.94
+Rodger Pardee,615,Film,4.6,32,2.6,0.84
+Erica Byrne,,Film,3.6,8,2.8,
+Michael Genovese,507,Political Science,4.4,19,3,1
+Mahmoud Nourayi,,Accounting,3,50,3.5,0.5
+John Connolly,,Theology,4,28,2.6,
+Seth Thompson,,Political Science,2.8,25,4,
+Jane Brucker,291,Fine Arts,3.6,21,3.3,0.8
+William Pupa,744,Fine Arts,4.5,26,2.3,1
+Wilkie Au,,Theology,3.9,15,2.6,
+Judith Foy,,Psychology,3.7,40,3.8,0
+Sylvia Morales,,Film,3.1,8,2.8,
+Kathy Yang,,Languages,4.9,25,2.8,1
+John Grever,,History,4.4,17,2.2,
+Caprice Walker,,Theater,4.8,9,1.4,
+Al Hayashi,,Business,3.2,30,3.3,
+John Stewart,,Film,2.8,17,2.6,
+Barbara Rico,,English,3.9,31,3.4,0.67
+Thomas Rausch,,Theology,3.1,25,4,0.5
+Juan Mah Y Busch,354,English,3.8,43,2.9,0.55
+John Kochian,,Communication Studies,4.6,37,1.2,
+Nina Reich,,Communication Studies,4.6,17,2.1,0.5
+Jon Saxon,,Mathematics,2.7,46,3,
+Lawrence Tritle,,History,3.9,40,3.3,
+Michele Mega,,Communication Studies,3.8,26,3,
+David Marple,,Sociology,3.8,46,1.9,1
+Patrick Shanahan,567,Mathematics,4.4,32,2.6,1
+Lisa Harris,,Psychology,3.9,11,2.3,
+Renate Thimester,,Economics,1.8,71,3.5,
+Wilfredo Flores,,Mathematics,2.9,78,2.7,
+Gary Sibeck,,Business,3.4,32,2.1,1
+David Hardy,169,Psychology,3.5,43,2.7,0.75
+John P. Waggoner,,Biology,3.6,23,3.6,
+Benjamin Bobo,,Finance,3.1,23,3.8,0
+Labina Ula,,English,2.8,23,3.3,
+Jeff Gale,,Business,2.3,17,3.3,0
+Paul Rude,,Engineering,3.8,7,2.7,1
+Dave Smith,,Mathematics,3.3,27,3,
+Dionne Bennett,,Women's Studies,2.7,46,2.9,0
+Richard Rohrer,,Film,4.4,27,1.7,1
+Michael Barclay,,Theology,4.7,12,2.5,
+Michael Grady,,Mathematics,2.5,37,4.2,
+George Hess,,Business,4.2,26,1.4,
+Matt Nelson,,Communication Studies,4.4,21,1.9,
+Aimee Koeplin,,Philosophy,3.6,27,2.4,0
+Lowell Herr,,Philosophy,2,40,3.3,
+Marc Lony,451,Languages,3.7,24,3,0.86
+William Trott,746,Engineering,3.3,13,3.3,0
+Ron Marasco,,Theater,4.9,17,2.1,1
+Barbara Busse,,Communication Studies,2.5,2,3,
+Luis Proenca,439,Film,3.2,11,1.9,0.6
+Alan Cherry,,Accounting,3.1,41,3.6,
+Hiromi Kinjo,267,Languages,3.4,17,2.7,0.5
+Fr. Joe La Brie,,Psychology,3.6,25,2.9,1
+Sandy Kirkner,,Psychology,3.3,13,1.7,
+Carolyn Almos,,Theater,4.5,16,1.5,1
+Elizabeth Murray,,Philosophy,2.9,20,3.3,0.25
+David Mathison,,Management,4.1,24,2.3,
+Katherine Harper,,Art History,3.6,22,4,
+Peter Ring,,Management,2.6,18,2,
+Mel Mendelson,,Engineering,2.4,19,2.8,
+Barbara Dyer,75,Music,4.3,16,1.4,0.4
+Garland Kirkpatrick,,Graphic Arts,3.1,13,3.3,
+Frank Daroca,,Accounting,3.8,24,3.8,
+Nazmul Ula,,Engineering,2.9,6,3.2,
+Jackie Dewar,,Mathematics,2.3,14,3.6,
+Herbert Medina,,Mathematics,4.3,25,3.3,1
+Mark Schwartz,,Film,4.6,14,2.5,1
+Steve Duncan,,Film,5,5,1.8,
+John Emerling,,Art History,4.6,11,2.7,
+Robbie Nakatsu,598,Information Science,4.3,28,2.5,1
+Michael Mulvihill,,Engineering,4.4,11,1.8,0
+Charlotte Radler,122,Religion,4.5,21,3.1,0.72
+Leland Swenson,,Psychology,4.7,11,2.4,1
+Wojciech Kocyan,748,Music,4.4,11,3.2,
+Phyllis Green,,Fine Arts,2.8,8,2.4,
+Yvette Lapayese,761,Education,4.9,16,3.3,
+Mike Daniels,,Journalism,4,6,2.7,
+Hassan Hussain,,History,3.3,14,2.7,
+Jay Busse,,Communication Studies,2.6,20,2.2,1
+Demetrios Liappas,,Languages,5,4,2.3,
+Jonas Mureika,337,Physics,4.4,22,2.9,1
+Fatima Wu,,Ethnic Studies,4.2,15,3,
+John Beckwith,,Business,3.6,22,2.4,0.67
+Eric Hall,,Philosophy,4,9,3.9,
+Matt Dillon,,Classics,4.3,24,2.9,0.67
+Michelle Hammers,,Communication Studies,4.6,24,2,1
+Rebecca Crawford,,Chemistry,2.2,18,3.8,0
+John Menaghan,,English,2.3,20,3,0
+Shanna Kennedy-Quigley,,Art History,4.1,19,3.8,
+Marie Claire Costello,,Theater,3.3,16,1.2,
+Doris Namala,,History,4.3,10,2.1,
+Amy K. Ross,,English,3.2,29,3.1,1
+David Choi,,Entrepreneurship,3.6,35,3.3,0.72
+Raymond Greene,583,Film,3.1,8,2,
+Laurel Ollstein,,Theater,4.6,10,1.9,
+Matt Kursar,,Mathematics,4.6,21,1.5,
+Ayanna Yonemura,,Urban Studies,2.1,14,2.2,0.34
+Erika Camacho,,Mathematics,2.3,34,4.3,
+Pamela Goldblum,,Fine Arts,4.7,10,1.6,1
+Larry Pate,,Management,2.2,18,3.4,
+Paul Lin,,Ethnic Studies,2.7,36,3.9,
+Renee Florsheim,,Marketing,2.5,13,2.9,0
+Dorian Llywelyn,,Religion,4.2,44,3.2,
+Dan Weingarten,,Theater,3.5,10,2.7,
+James Holmes,286,Theater,4.7,12,1.4,1
+Michelle Lum,517,Biology,4.3,4,2.3,1
+Jeffrey Davis,301,Film,4.6,15,1.6,1
+Jeffrey Siker,,Religion,4.8,16,2.8,
+Martha Masters,475,Music,4.8,13,1.7,0.75
+Mario Congreve,,Film,3.5,11,2,
+Katharine Clemmer,,Education,4.7,6,3.7,1
+Roberto Dell'Oro,609,Theological Studies,4.3,13,3,
+Bob Robinson,,Philosophy,4.4,11,3,
+Jeff Thies,,Business,4,11,2.7,1
+Cliff Rochlin,,Economics,2.1,46,4.4,0
+Natalie Rivetti-Oritiz,,Mathematics,4.6,6,1.7,
+Kambiz Moghaddam,,Dance,2.8,8,2.5,
+Richard Perle,,Computer Information Systems,3.3,21,3.5,0.6
+Rachelle Katz,,Business Administration,2,12,4.2,
+Lee Cenquizca,,Natural Sciences,2.2,8,4.5,1
+Susan Schaffer,,Spanish,2.7,21,3.2,
+Ethan Adams,,Classics,4.8,25,2.6,
+Jonghwa Lee,,Communication Studies,3.4,21,3.7,
+K. Dahlquist,,Biology,2.8,27,3.7,1
+Saba Soomekh,,Theology,4.6,43,2.5,
+Kwaku Person-Lynn,,Urban Studies,1.9,4,2.3,
+Jennie Spencer Green,,Education,4.1,7,2.1,
+Judith Royer,,Theater,3.9,8,2.6,
+Brant Kline,,Business Administration,3.5,7,3,
+John Hartmann,,Media & Performing Arts,4.6,9,1.3,
+Richard Freiman,,Film,3.6,8,1.3,
+Robert Caro,,English,2.5,3,2.7,
+David Sanchez,,Theology,4.8,51,2.4,1
+Andrew Healy,,Economics,4.1,35,3.1,
+Laurie Beyer,,Education,2.5,3,3.7,
+Chris Haddy,,Education,3.9,11,3.1,
+Paul Desena,,Education,4.4,11,2.5,1
+John Huddle,,English,4,26,3.3,
+Darryl Graver,,Business Law,4.8,9,1.3,
+Reyna V. Cummings,,Communication Studies,4.3,6,1.5,
+Don Zirpola,,Film,3.5,14,2.8,0.8
+Rebecca Cantor,,English,4.1,24,2.5,
+Peter Soto,,Film,3.7,3,4,
+David Ramirez,,Health Sciences,4.6,9,3.2,
+L Boland,,Engineering,3.6,8,2.4,
+William Semos,,Business Administration,2.6,12,4.5,1
+Thomas Muller,,Fine Arts,5,8,3.5,1
+John Leaver,,Art History,4.4,16,2.6,1
+Victoria Newsom,,Communication Studies,3.9,18,2.7,
+Michael Datcher,,English,4.6,23,1.9,1
+Paige Edley,,Communication Studies,2.9,22,2.3,0.67
+Anja Leigh Russell,,English,3.3,15,3.5,
+Maria Nazarian,,Psychology,4.5,12,2.7,
+Yevette Saavedra,,Urban Studies,3.1,22,3.6,
+Graham Beckel,,Theater,5,4,2,
+Kathy Baur,,Animation,3.8,3,2.7,
+Janie Steckenrider,294,Political Science,3.7,33,2.2,1
+Maureen Schaukowitch,,Education,3.8,3,2,
+Tomo Hattori,,English,3.1,15,3.4,
+Deanna Drew,,English,2.3,19,4.5,
+Gabe Griffith,,Philosophy,3.8,8,2.5,
+Chien Tseng,,Mathematics,2.7,28,3.1,
+Eli Daughdrill,,Film & Television,3.3,17,2.8,
+Lawrence Kalbers,,Accounting,3.8,12,3.2,
+Noel Korten,,Art History,0,0,0,
+Joseph Puterbaugh,,English,4.6,11,1.7,1
+Christopher Chapple,135,Theology,3.3,17,3.4,1
+Jose Hernandez,,Dance,0,0,0,
+Debbie Davis,,Education,5,2,2,
+Slobodan Sijan,,Film & Television,5,2,2.5,1
+Ken Simmonds,,Accounting,2.5,3,1.7,
+Rachel Adams,578,Environmental Science,3.2,9,3.9,1
+Elizabeth Drummond,211,History,3.7,33,3.7,1
+Sharon Madden,,Theater,4.6,9,1.8,1
+Michael Domaguing,,Marketing,4.8,2,3.5,
+Dana Reemes,,Archaeology,4,10,2.2,
+Rory Natividad,,Natural Sciences,0,0,0,
+Keith Ellison,,Natural Sciences,3,2,3.5,
+David Zinn,,Philosophy,2.9,68,3.9,0.5
+Thomas McDermott,,Music,3.8,6,2.5,
+Gordon Firemark,,Business Law,3.3,14,3.3,
+Norman Knoerlein,,Film & Television,0,0,0,
+Teresa Romero,,History,5,2,3,
+Laurence Dumortier,,English,3.3,9,1.9,
+Jeremy Pal,,Civil Engineering,3.9,18,2.7,0.8
+Bill Sanders,,Marketing,5,3,2.3,1
+Susan Abelein,,Education,5,2,2,
+Judy Scalin,,Dance,4.7,5,1.6,1
+Tekla Kostek,,Dance,3.5,8,4.3,
+Elaine Walker,,Communication Studies,4.6,7,1.6,
+Forouzan Faridian,,Physics,2.6,7,3,1
+Nicolas Rosenthal,549,History,4.2,47,2.8,0.73
+Dan Kennedy,,Classics,3,2,5,
+Margaret Trenchard-Smith,,History,4.5,22,2.6,
+Tania Maync,,History,4.5,43,3.2,1
+Orie Prince,,Women's Studies,0,0,0,
+Cynthia Prescott,,American Studies,0,0,0,
+Guillo Della Rocca,,Mathematics,2.6,22,3.1,
+Francisco Ramos,,Education,2.8,11,2.7,0.25
+Phil Pannell,,Education,4.5,2,3,
+Timothy Braun,,Education,0,0,0,
+Wenshu Lee,,Communication Studies,3.7,5,1.8,
+Christine Cain,,Education,4.2,5,3.6,
+Carolyn Brooks,,Education,1.8,3,2,
+Karen Hawkins,368,Education,4.5,2,3,
+Karen Huchting,,Education,4.9,5,2.8,
+Maryam Maryami,,Women's Studies,0,0,0,
+Tammy Pao,,Computer Science,2.6,4,2.3,
+Michael Petitti,,English,4.1,19,2.3,
+Saeri Cho,,Art,3.1,7,3.3,1
+Michael Stock,,English,4.4,4,1.8,
+Michelle Anderson,,Psychology,2.6,19,3.6,
+Dalia Muller,,History,3.9,7,2.3,
+John Parrish,,Political Science,3.6,15,3.3,
+Mark Gordon,,Sociology,3,10,2.5,
+Jay Douglas,,Film,2.9,6,3.8,
+Adam Fingerhut,7,Psychology,4.5,53,3.5,0.89
+Daniel Speak,160,Philosophy,4.1,40,3.7,0.86
+Kelley Falconer,,Philosophy,3.8,23,3.6,
+Deke Simon,,Film & Television,4.4,10,2.3,1
+Eugenia Sileoni,,Spanish,4.4,6,1.8,
+Thomas D'Amico,,Philosophy,3.1,9,2.6,
+Nicole Woods,,Art History,4.7,11,3.9,
+Nenad (Neno) Pervan,,Theater,4.9,13,2.6,1
+Andrea O. Fuller,,Theater,5,8,1.9,1
+Thomas Cappelli,,Philosophy,4.4,20,3.3,
+Linda Hasunuma,,Political Science,4.8,11,3,
+Jennifer Pate,,Economics,4.9,48,2.9,1
+Anna Sarrano,,Education,2.5,4,2.5,
+Vernita Burrell,,English,4.6,9,2.2,
+Patrick Scott,,Film & Television,4.6,18,3.3,0.84
+Henry Garcia,,Studio Art,0,0,0,
+Barbara Christie,,Natural Sciences,4.3,6,1.7,
+Dina Parker,,Education,0,0,0,
+Shannon Nason,,Philosophy,4,24,2.7,
+Robert Stephan,,History,4.3,4,2.3,
+Denise Leitner,,Dance,2.5,1,1,
+Deborah Harris,,English,4.7,12,2.4,
+Shawki El Zatmah,,History,3,8,1.9,
+Victor Carmona,,Biology,4.5,18,2.8,1
+Evan Woods,,Economics,0,0,0,
+Phil Wander,,Communication Studies,3.8,2,2,
+Grant Garinger,,Theater,4.3,6,1.7,
+Thomas Whaling,,Philosophy,4.5,4,3,
+Joshua Blander,,Philosophy,3.1,14,3.2,
+Pepper Glass,,Sociology,2.7,7,3.1,
+Dung Tran,,Communication Studies,3.6,14,3.2,
+Tim Burns,,Philosophy,4.3,20,2.6,1
+Chin Tin Senz,,Mathematics,0,0,0,
+Simon Karmarker,,Management,2.5,2,2.5,
+Thomas Mueller,,Art & Art History,4.3,3,4.3,
+Helen Alatorre,,Education,3,2,2.5,
+Maria Valenzuela,,American Studies,3.9,23,2,
+Jason Jenkins,,English,4.8,23,2,
+Joanna Burgarino,,English,4.4,8,2.5,
+Raul Ramirez,,Management,0,0,0,
+Amy Willard,,Communication Studies,3.4,6,2.8,1
+Julia Lee,358,English,4.4,17,2.8,1
+Shawki El-Zatmah,,History,4.1,10,1.5,
+Steve Chrissanthos,,History,4.1,16,3.4,
+Amy Alward,,Accounting,2.6,28,3.7,
+Diane Fiello,,Education,2.5,2,3,
+Maura Captain,,Education,4,8,1.3,
+David Byrne,,History,4.3,20,2.1,
+Cassie Cain,,Mathematics,1.9,15,4,
+Erica Steakley,,English,4.7,18,2,1
+Warren Wright,,Mathematics,2.5,2,3.5,
+Maral Reyes,,Education,5,2,2,
+Boris Fritz,,Mechanical Engineering,0,0,0,
+Tania Fleischer,687,Music,5,2,3.5,1
+Sovathana Sokhom,,Economics,1.2,17,4.6,0
+Nara Chea,,Economics,2.6,8,3.8,
+James Kearney,,Film & Television,4,1,1,
+Jeffrey Lindstrom,,Economics,4.4,5,1.6,
+Nadine McGuinness,,Theological Studies,1.5,5,4.4,
+Kevin Trosian,,Finance,0,0,0,
+Arif Karim,,Chemistry,4.6,8,2.9,
+Seth Kim,,Economics,2,12,2.9,
+Susan Feldman,,English,3.1,11,4.5,
+Michon Matthieson,,Theological Studies,1.7,15,4.9,
+Steve Michaud,,Business,3.8,2,2.5,
+Christine Nangle,,Communication Studies,4.2,3,3.7,
+David Aikenhead,,Finance,0,0,0,
+Emily Scherberth,,Communication Studies,5,2,1.5,
+Alecia Molezion,,Communication Studies,2.5,3,2.7,0
+John Glavan,,Communication Studies,2.7,7,1.4,
+Clifford Reed,,Theater,0,0,0,
+Molly Corey,526,Art & Art History,0,0,0,
+Snack Break Sarah,,Biology,0,0,0,
+James Carroll,,Management,4.5,2,1,
+Joshua Hayes,,Philosophy,4.2,3,3.3,
+Craig Rich,150,Communication Studies,4.5,12,2.5,1
+Gregory Canillas,,Psychology,3,3,2,
+David Matheson,,Business,3.8,2,2.5,
+George Saraf,,Economics,4.3,9,2.9,1
+Lori Klein,,Education,0,0,0,
+Jongmae Park,,Theology,4.8,6,2.5,
+Jon Mochizuki,,American Studies,4.5,8,2.5,1
+Ruth Lane,,English,4.9,5,2.8,
+Ross Mann,,English,4.4,5,1.4,
+Alexandra Neel,25,English,3.3,8,3.1,0.5
+Katherine Rhodes,,English,4.4,9,2.9,
+Lizy Moromisato,,Languages,3.1,6,2.7,
+Ernesto Colin,231,Liberal Studies,0,0,0,
+Lynell George,,English,2.5,2,2.5,
+Maggie Catalfamo,,English,0,0,0,
+Daniel Bonilla,,Natural Sciences,4.5,11,2.7,
+Cassandra Veney,,Political Science,3.3,23,4.1,
+Derek Von Barandy,,Philosophy,4.1,26,2.7,
+Emek Kose Can,,Mathematics,4.4,6,2.5,
+Ramona Wright,,Communication Studies,1.8,2,2,
+Sonja Kemp,,Business,4.9,3,2.3,1
+Jane Yamashiro,,American Studies,2.5,26,2,
+Victor Polanco,,American Studies,2.2,3,4.3,
+JW Huddle,,English,0,0,0,
+Grant Zamudio,,Women's Studies,5,1,1,
+Donna Laws,,Natural Sciences,0,0,0,
+Stephane Muller,,French,4.5,1,2,
+Dexter Blackman,,History,2.8,36,3.9,1
+Marc Reeves,453,Theology,3.4,13,3,0
+Kathleen Foy,,Philosophy,2.5,2,1,
+Patrick Doyle,,Psychology,3.3,2,2,
+John Compton,,Political Science,5,1,4,
+Sang-Hyun Lee,,Economics,0,0,0,
+Anna Serrano,,Education,2,1,4,
+Jane Yamashiro,,Sociology,2.7,3,3.3,
+Lorne Platt,,Urban Studies,3.5,2,2,
+James Roe,,Chemistry,1.5,2,4.5,
+Lee Feldman,,Business Law,3.6,4,3,
+Erika Thomas,,Communication Studies,0,0,0,
+Sarpphaitoon Suppaleuk,,Economics,2,1,3,
+Heather Graham,,Art & Art History,0,0,0,
+Jean Murachanian,,Art & Art History,1.5,1,4,
+Cythina Bond,,Theology,3.3,13,2,
+Mona Seymour,,Urban Studies,2.7,15,3.3,0
+Thuy Vo Dang,,American Studies,1.8,10,4.4,
+Elizabeth Dively-Lauro,,Theological Studies,4,4,2,
+Jennifer Hsieh,,Biology,2,5,4.8,
+Misha Tadd,,Theological Studies,3,5,2.8,
+Evan Somers,,Film & Television,0,0,0,
+Kristin Devitt,,English,5,1,2,
+Laura Diaz,,English,4,3,3,
+Lauren Redwine,,English,0,0,0,
+Nicole Morris,,English,3.3,3,3.3,
+David Lerner,,Film & Television,4.4,10,3.1,
+Anton Smith,,American Studies,2.8,16,4,
+Susie Woo,,American Studies,5,3,2,
+Erika Perez,,American Studies,4.2,5,4,
+Vicente Cassano,,Biology,4,18,1.8,1
+Elaine Goodfriend,,Theology,3.1,5,3.6,
+Thomas Leach,,Film & Television,5,2,1,
+Brett Grisham,,Film & Television,5,1,1,
+Shelley Luce,,Environmental Science,5,1,3,
+Amanda Herring,,Art & Art History,3.5,18,3.7,0.43
+Brandon Seto,,History,4.3,26,3.3,1
+Suzie Abajian,,Mathematics,4.8,4,2.3,
+Ivy Cargile,,Political Science,4.3,5,3.2,
+Linda Yellin,,Sociology,3.3,6,2.3,
+Courtney Spikes,,History,4.2,9,3,0.5
+Karol Hoeffner,371,Film & Television,5,1,3,
+Rachel Petrocelli,,History,4.2,18,4.1,0.86
+Don Schroeder,,Film & Television,5,3,1,
+Dorian Llwelyn,,Theological Studies,3.5,2,3.5,
+Leiger Biederman,,Art & Art History,5,1,2,
+Rosalie Siemon,,Philosophy,4.2,9,2.4,
+Robert Cross,,History,4.8,8,2.9,
+John Strickland,,History,2.6,4,3,
+Henry Nguyen,,Theological Studies,3.4,4,1.8,
+David Sheridan,,History,3.2,9,3.6,
+Iliana Delarkin,,Communication Studies,4.3,16,3.2,0.92
+Megan Azzi,,Education,5,1,3,
+Timothy Helton,,Theology,3.5,13,2.9,
+Karla Colorado,,Education,5,1,1,
+Candace Pointdexter,,Education,5,1,1,
+Cecilia Martinez-Gil,,English,4.1,11,2.3,
+Andrew Lac,,Psychology,4.4,17,3.2,
+Kevin Griffin,,Biology,1.8,4,4.8,
+Tom Sharp,,Education,5,2,2.5,1
+Mia McIver,,English,3.8,6,2.8,
+Mathes Mennell,,Education,0,0,0,
+Monica Osborne,,English,5,2,1.5,
+Terri Anderson,,Sociology,3.6,8,3,
+Catherine Skibo,,Chemistry,1.5,2,5,
+Yvette Mylett,,English,4.7,8,3.6,1
+Hillary Hintzen,,English,4.2,8,2.9,
+Rebecca Pazdral,,Not Specified,4,1,3,
+Thomas Ramsey,,Accounting,1.9,26,3.7,0
+Joseph Pak,,Philosophy,2.7,3,3.7,
+James Kintz,,Philosophy,3.8,7,2.7,
+Sun Hee Yoon,,History,3.7,27,3.6,0.34
+"William ""bill"" Welcher",,Education,4.5,1,1,
+Rozy Vig,,Mathematics,2.5,3,4,
+James Bany,,Not Specified,3.4,17,3.4,
+Candice Nicolas,,French,3.7,3,3,
+Lucia Singer,,Communication Studies,1.7,3,3.7,
+Heather Hoffman,,English,4.8,6,2.3,
+Angela Gallegos,,Mathematics,3.1,13,3.6,0.5
+Paul Reinsch,,Film & Television,2.9,5,3.8,
+Christiano Manfre,,Economics,2.5,15,3.4,1
+Janna Goebel,,English,4.7,3,3,
+Nicholas Denysenko,,Theology,3.7,4,3,0.5
+Susie McDaniel,,Communication Studies,4.9,17,1.8,1
+Robert Buerkle,,Film & Television,0,0,0,
+Corinna Silva Da Veiga Jardim,,German,4.8,2,2.5,
+Kaci Cooper,,English,4.5,2,2.5,
+Todd Otanicar,,Mechanical Engineering,1,1,5,
+Milka Broukhim,,Studio Art,4.8,2,4,
+Julie Cohen,,History,4,3,1.7,
+Andrew Rohm,50,Business,5,4,3.3,1
+Junyi Liu,,Asian Pacific American Studies,4.8,2,2,
+Karen Beavers,,Film & Television,4,1,3,
+Casey Shoop,,English,4.1,4,2.8,
+Yael Lipschutz,,Art & Art History,0,0,0,
+Gabrielle Shulman,,English,3.3,3,2.7,
+Donald Dilliplane,,English,4.6,6,2,
+Kenneth Ellsworth,,English,0,0,0,
+Siel JU,,English,0,0,0,
+Zenadia Ramos,,Mathematics,2.3,6,3.2,
+Benjamin Christensen,,American Studies,1,1,4,
+Laura Rectenwald,,English,4.7,5,1.6,
+Albertus Laksana,,Theological Studies,3,2,2,
+Steve Sherwood,,Sociology,3.4,5,3.8,
+Lana Spraker,,Theater,3.5,1,2,
+Matthew Werber,,Physics,2,8,4,
+Marlene Rodrigues,,French,0,0,0,
+Jael Reboh,,Philosophy,0,0,0,
+Jesse Mills,,Political Science,4.5,5,2.8,
+Yan Yan Yang,,Economics,1.2,5,3.6,
+Diana Reichenbach,,Art & Art History,0,0,0,
+Evelyn McDonnell,,English,3.5,8,3.4,0.4
+Bryce Mason,,Finance,0,0,0,
+Jay Oliva,,Animation,0,0,0,
+Sean D''Evelyn,,Economics,4.4,19,3.2,1
+Paul Keller,,Theological Studies,4.5,3,3.3,
+Charles Tang,,Engineering,4.5,2,2,
+Rosalind Lewis,,Engineering,4.5,1,2,
+Steven Brunter,,African-American Studies,1,1,5,
+Julie McGene,,Sociology,4.9,12,1.5,
+Joanne Hall,,American Studies,3.5,1,1,
+Lucy Kilp,,Psychology,4.2,5,2.8,
+Xandra Kayden,,Political Science,3.5,2,2.5,
+Adilifu Nama,10,African-American Studies,3.8,12,2.7,1
+Eric Saulnier,,History,2.8,3,3.3,0
+Nora Zepeda,,Spanish,3.7,8,2.9,1
+Lori Brummel,,Education,1,1,5,
+Nicole Valenzuela,,Biology,4.3,3,2,
+Katelyn Quinley,,English,2.8,2,3,
+Courtney Pina,,English,4.9,13,2.1,
+Melissa Nivala,,Mathematics,4.6,37,2.5,
+James Kilcup,,Communication Studies,4.2,5,2.6,
+Tyler Ferreira,722,Art & Art History,4.4,13,2.8,1
+Christopher Finlay,138,Communication Studies,4.5,15,2.9,1
+Chiara Sulprizio,,Archaeology,4.2,3,1,1
+Kristen Fuhs,,Film & Television,4.5,1,2,
+Dudley Gray,201,Communication Studies,5,2,2,1
+Justin Campbell,,English,3.2,6,4,
+Elizabeth Barr,,English,3,4,3.8,
+Thomas Ward,,Philosophy,4.8,4,4.3,
+Julie Suh,,Accounting,4.7,7,3.6,
+Andrew Devereux,,History,4.2,12,3.2,0.34
+Hannah Dow,,English,4.5,4,2.3,
+Norma Bowles,,Theater,3.7,8,2.9,1
+Anne Hong-Hermesdorf,,Biology,2,1,1,
+Jeffrey Kaisershot,,Art & Art History,5,1,1,
+Leah Mancuso,,Psychology,2,1,4,
+Arin Brahma,66,Computer Information Systems,2.7,26,3.3,0.34
+Marta Sanchez,,Education,5,1,1,
+Ron Sorace,,Mathematics,1.6,29,4.6,0.25
+Cody Packard,,Psychology,1.3,3,4.7,
+Janice Littlejohn,,English,1,2,4.5,
+Sara Lederer,,Psychology,3.9,30,2.9,0.67
+William Britt,,Philosophy,3.2,18,4.1,0.59
+Arthur Kiureghian,,Business Law,4.7,3,2.3,1
+Sheron Mark,,Environmental Science,2.5,2,2,
+Matthew Pereira,,Theological Studies,4.4,28,3.3,0.86
+Benjamin Yeo,,Computer Information Systems,3.5,3,1.7,
+Susan Abraham,,Theology,4.6,8,3.1,1
+Laurence Boland,,Natural Sciences,0,0,0,
+Judith Williams,,Biology,1.5,3,3.3,
+Elizabeth Quiros-Loe,,Theological Studies,3.2,3,3.7,
+Sean Hooks,,English,5,2,2.5,
+Thomas Buckley,,History,3.1,4,3.5,
+Kofi Yankey,,Economics,2,3,3.7,
+Robert Cook,,Dance,3.5,1,1,
+Nefertiti Takla,,History,4.5,1,2,
+Chris Zepeda-Millian,,Political Science,3.4,10,3.2,0
+Wesley Dowd,,Biology,4,2,3,1
+Ying Ying Wang,,Accounting,3.7,33,4.1,0.67
+Benjamin Lappenga,,Theology,3,1,3,
+Richard Dent,,English,0,0,0,
+Michael Levi,,Health Sciences,5,3,1,
+John Swain,,Communication Studies,3.5,1,2,
+Jose Tapia,,Physics,3.5,23,3.7,0.7
+Moshe Naor,,Political Science,5,1,1,
+Angela James,,African-American Studies,2.9,7,3.2,0.5
+Selene Zander,,Spanish,3.9,4,3.5,
+Michael Dulay,,Health Sciences,0,0,0,
+Lauren Wozniak-Pearce,,Physics,0,0,0,
+Isaac Speer,,Sociology,4.3,4,1.8,0
+Corey Eccles,,Audio Production,4,2,1.5,
+Mikael Kreuzriegler,519,Film & Television,3.7,4,2.3,0.5
+Robert Burgos,,Film & Television,1,3,3.7,0
+John Dionisio,,Computer Science,4.2,11,2.6,0.91
+Alissa Zito,,Communication Studies,4.8,10,1.4,1
+Lillian Barbeito,,Dance,0,0,0,
+Annemarie Perez,,English,4.4,12,2.5,0.5
+Monika Remedios,,Philosophy,3,1,2,
+Tim Huffman,,Communication Studies,4.8,3,2.7,
+Matthew Peterson,,Political Science,4.5,21,2.1,
+Theresa  Todd,,Communication Studies,3,1,4,
+Timothy Huffman,,Communication Studies,0,0,0,
+Marick Sinay,,Mathematics,3.6,5,3.8,
+Luke Woodruff,,Theater,4.7,7,1.7,1
+Nari Choi,,Mathematics,3,10,2.9,
+Amy Nielsen,,Chemistry,2.3,3,4.7,
+Judy Siker,,Theological Studies,4,23,3,0.65
+Hafedh Herichi,,Mathematics,4,6,3.2,1
+Christopher Cobb,,Engineering,4,2,2.5,
+Gordon Bennett,,Theological Studies,5,1,3,
+Hamish Cameron,,Classics,0,0,0,
+Morgan Land,,Film  Television,4.3,2,4,
+Rosalie  Lochner ,,Women's Studies,3.6,8,3,
+Ann Le,53,Art  Art History,0,0,0,
+Michele Romolini,,Biology,0,0,0,
+Tom  Nelson,,English,1,1,5,
+Ilene Straus,,Education,0,0,0,
+Erika Rothberg,,English,0,0,0,
+Teresa  Munoz,,Art  Art History,2.4,6,4,0.5
+Chris Becker,,Art  Art History,1,1,3,
+Timothy Shea,,Art  Art History,2.3,2,5,
+Katie King,,English,4.8,5,1.8,
+Kimberli Samuel,,Marketing,3,1,2,
+Eric Taylor,,Communication Studies,4.5,3,1.7,1
+Brooke Nelson,,Theological Studies,4,1,4,
+Ilan Freeman,,Theological Studies,0,0,0,
+Amy Shevitz,,Theological Studies,2,2,4.5,1
+Nicholas Thaler,,Psychology,4.7,5,3,1
+Shamin Rostami,,Entrepreneurship,0,0,0,
+Robin Johnson,,Art  Art History,4.5,2,3.5,1
+Amina  Humphrey,,American Studies,4.6,12,1.8,0.6
+Diane Meyer,187,Art  Art History,4,1,2,
+Wednesday Hobson,,English,1,1,4,
+Margaret Gower,,Theological Studies,3.4,9,3.4,0.4
+Stacy Sinclair,,Education,1,4,4,1
+Haley Young,,Computer Science,2,2,4.5,
+Veronika Harder,,Economics,2.4,4,3,1
+Kristin Lui-Martinez,,Mathematics,4,1,3,1
+James Bogdonski,,Film,0,0,0,
+Paul Monson,,Theology,3.5,6,4,0
+Julia Gosart,,American Studies,4,3,2,
+Steven Lipshie,,Environmental Science,4.5,1,4,
+Andrew Subica,,Psychology,4.5,1,2,
+Christopher Chien,,English,4.8,4,2.5,
+Sarah Strand,639,Health Sciences,4.2,6,3.5,0.86
+Ali Dehghan,,Marketing,3.9,4,2.8,0
+Marilyn McLaughlin,,Dance,2.4,4,3.3,0
+Ken Provencher,,Film,0,0,0,0
+Yvette Saavedra,,Chicano Studies,3.5,2,3.5,
+Raynee Gutting,,Political Science,5,2,2,
+Jessie Hewitt,,History,0,0,0,
+Eric Meyer,,Theological Studies,3.9,8,3.4,0.67
+Rosalio Cedillo,,Sociology,3.7,3,4,1
+Kristine Vardanyan,,Education,5,1,4,1
+Jim Clarke,,Theological Studies,0,0,0,
+Alexa Bolton,,English,5,4,1.8,1
+Barbra Lang,,African-American Studies,0,0,0,
+Stephen Hess,,Education,0,0,0,
+Rose Bomentre,,Education,4.5,1,4,
+Donald Kendall,,Civil Engineering,2.5,2,4.5,0
+Stanley Lewis,,Business,2.5,6,3.5,0.34
+Sergio Gaudio,,Physics,3,4,4,1
+Erica Watson,,Film  Television,1,1,4,0
+Matthew Sand,,Entrepreneurship,0,0,0,
+Lisa Upshaw,,Health Sciences,4.8,2,2.5,
+Shane Acker,650,Film,5,3,1.7,
+Deborah Novak,,Health Sciences,4.5,3,3,1
+Paul Joffe,,Film  Television,3,1,2,
+Bryan  Ricci,,Art  Art History,3.5,1,2,1
+Sherine El Hag,,Economics,3.8,19,2.6,0.67
+Kevin Del Principe,,Film  Television,5,6,1.3,1
+Jason D'Mello,296,Entrepreneurship,4.5,16,3.3,0.94
+Steve Domier,,Film  Television,5,1,3,1
+Timothy Haehn,,English,4.5,1,5,
+Allison Rohrer,,English,4.5,1,4,
+Leah Smith,,Film  Television,3.4,5,2.8,0.8
+Mary Talusan,,Music,5,1,3,
+Cynthia De Nuño,,Marketing,1,1,5,0
+Dan Wantanabe,,Film  Television,0,0,0,
+Elizabeth Rahilly,,Sociology,2.8,5,3.2,0
+Eric Davidian,,Women's Studies,5,2,1,1
+Nicholas Centino,,Chicano Studies,3.8,9,3.4,0.56
+Monica Marquez,,Spanish,3.9,7,3.2,0.72
+Cassandra Bailey,,Business,1,1,3,0
+Alma Flores,,Chicano Studies,4.2,12,3.1,0.67
+Ege Islekel,,Philosophy,4.1,15,3.4,0.74
+Jaron Neufeld,,Philosophy,0,0,0,
+Taylor Holbrook,,Liberal Studies,4,3,2.7,1
+Amanda Beer,,Psychology,3.7,3,2.7,0.34
+David Garden,,Film,4.4,5,1,1
+Thomas Hoklotubbe,,Theological Studies,5,2,2.5,1
+Le Gui,,Mathematics,1,6,3.8,0
+Jennifer Moorman,,Women's Studies,4,10,3.3,0.7
+Ian McDonald,,English,5,3,2.3,1
+Karen Carmichael,,Mathematics,2,1,3,0
+Allison Edgren,,History,1,1,4,0
+Dianne Hackett,,Education,0,0,0,
+Chris Engman,,Studio Art,2,1,3,1
+Alice Taylor,,Political Science,4.7,3,4,1
+Mugdha Yeolekar,,Theology,3.6,12,2.8,0.75
+Helen Kim,,Education,5,3,1,1
+Dave Harvilicz,,Management,5,12,3.4,1
+Jon Haghayeghi,,Economics,5,1,3,1
+Mirella Diaz-Santos,,Psychology,2,1,5,0
+David Pinzur,,Sociology,4.7,3,2.7,1
+Daniel Manchala,,Computer Science,3.3,3,3.7,0.67
+Bryan Pham,,Theological Studies,2.4,16,3.5,0.38
+Sylvia Zamora,685,Sociology,4,2,2.5,1
+Kristina Markman,,History,4.1,8,2.5,0.88
+Nery Lemus,,Art  Art History,0,0,0,
+Shaun Anderson,653,Communication Studies,4.5,8,1.7,0.89
+Serhiy Hovorun,647,Theological Studies,4.4,8,2,0.88
+David Sapp,,Education,3.2,5,3,0.6
+Gina Chavez,,Education,3,1,2,0
+Bryan Miller,,Communication Studies,3.5,4,3,0.75
+Matthew Normand,,Art  Art History,4,1,4,1
+Hsinyu Lin,,Art  Art History,1,2,3,0
+Katharine Free,,Theater,3,1,3,0
+Kim Harris,394,Theological Studies,3.5,14,2.5,0.72
+Corinne Sitbon-Slosburg,,Modern Languages & Literatures,0,0,0,
+Angelique Allain,,French,5,1,3,1
+Xiaolong Wang,,Economics,2.4,14,4.1,0.22
+Oyku Lyigun,,International Business,1,1,5,0
+Juliet Anyanwu,,Education,0,0,0,
+Charolette Radler,,Theological Studies,0,0,0,
+John Becker,,Theology,4.3,3,2.3,0.67
+Ben Afshar,,Mathematics,0,0,0,
+Ai Li,,Philosophy,2,3,3.3,0
+Marc Newman,,Film amp Television,2,2,4.5,0
+Benjamin Finck,,Chemistry,4.8,4,3.5,1
+Van Partible,,Animation,0,0,0,
+Yu Fang,,Biology,0,0,0,
+Timothy Zink,,Business,0,0,0,
+Nicholas Thacker,,Film amp Television,4,2,1.5,1
+Liza Taylor,,Political Science,4,4,4.2,0.75
+Ron Perry,,Chemistry,0,0,0,
+Melodie Grubbs,,Studio Art,5,1,3,1
+Mariano Bertucci,,History,4.3,15,2.7,0.74
+Michelle Nava,,English,5,2,2.5,1
+Edward Park,207,Sociology,0,0,0,
+Peter Hoffman,572,Sociology,0,0,0,
+Natasha Miric,,Sociology,4.2,15,1.8,0.6
+Deanna Cooke,178,Psychology,1,2,4,0
+Ronald Rozar,,Biology,5,2,2.5,1
+Terry Dobson,,Studio Art,0,0,0,
+Priscilla Leiva,576,Chicano Studies,4.5,2,3,1
+Julia Pelikhova,,Education,0,0,0,
+Kuo-Sheng Ma,,Electrical Engineering,2.7,8,3,0.5
+Mark Lucas,,Finance,4.3,4,2.5,0.75
+Adriana Sanford,,Business Law,5,9,1.9,1
+Philip Reed-Butler,,Theological Studies,3.2,18,2.8,0.67
+Trevor Wiseman,720,Education,5,1,2,1
+Yan Julian Zhang,,Finance,5,2,2,1
+Jennifer Williams,314,African-American Studies,4.6,5,2.2,1
+Benham Ziaei,,Mathematics,3.5,6,3.2,0.67
+kevin peters,392,English,0,0,0,
+Allyson Parks,,Political Science,0,0,0,
+Giovan Alonzi,,English,0,0,0,
+Lisa Herzog,,Business Law,5,6,2,1
+Oscar King IV,,Asian Pacific American Studies,5,1,4,1
+Alissa Volosin,,Computer Science,2.6,5,3.4,0.4
+Alex Wong,,Computer Science,4,3,4,0.67
+Christina Vasquez,,Biology,0,0,0,
+David Idol,,Greek,2.7,3,3.3,0.34
+Mary-Jo Apigo,,Education,0,0,0,
+Tara Pixley,,English,5,1,4,1
+Nader Saniei,,Engineering,3,2,3.5,0.5
+Wind Woods,,Theater,0,0,0,
+Deland Use,,Film,0,0,0,
+Anthony Markovich,,Marketing,0,0,0,
+Mahmoud Salari,,Economics,4.5,4,1.8,1
+Karen Holland,,Theater,5,2,1.5,1
+Juan Garcia Torres,,Philosophy,3.6,9,3,0.67
+James Gregg,285,Dance,5,1,2,1
+Deborah Sneed,,Art & Art History,5,1,3,1
+Paul Colin,,Liberal Studies,2,1,3,0
+Daisy Cheng,,Mathematics,2,8,4.3,0.25
+Matthew Dillon,,Classics,4.7,3,3,1
+Shane Andrews,,Communication Studies,2,4,3,0.25
+Sr. Le,,Philosophy,2,1,3,0
+Sergio Juarez,646,Communication Studies,5,1,3,1
+Stefan Bradley,,African-American Studies,4.8,4,3.2,1
+Mike Accavitti,,Business,5,1,3,1
+Amy Lauer,,Psychology,0,0,0,
+Catherine Osborne,,Theological Studies,5,2,1.5,1
+Natasha Neuman,,Education,5,1,2,1
+Aristotle Mosier,,Education,0,0,0,
+Dallas King,,Film & Television,5,4,1.8,1
+Alexandra Raleigh,,Political Science,5,1,4,1
+Danielle Heitmuller,,Animation,5,1,3,1
+Margaret Oberman,,Film & Television,4.8,4,2.8,1
+Karen Papazian,,Business,3.8,6,2.2,0.75
+Patricia Meyer,563,Film & Television,5,2,2.5,1
+Elmira Melgoza,,Mathematics,0,0,0,
+Paul Vu,,Psychology,2,1,4,0
+Michael Moore,,Accounting,1,4,4.2,0
+kim sunai,,Civil Engineering,0,0,0,
+Clark Zhu,,Film,5,4,3,1
+Melissa Chadburn,,English,1,1,5,0
+Steven Pieragastini,,Asian Pacific American Studies,2,1,3,0
+Nigel Billings,,Engineering,3.2,5,3.2,0.6
+Nicole Charky,,Marketing,5,1,2,1
+Laura Bloomfield,,Engineering,3.2,5,3,0.4
+Scott Leonard,,Marketing,2,1,4,0
+Sarah Beckmann,,Archaeology,4,1,4,1
+Samuel Beckelhymer,,Greek,5,3,2.3,1
+Angela Torres Camarena,,Film amp Television,4,1,2,1
+Frank Caponi,,Civil Engineering,5,1,1,1
+Ariel Brice,,Studio Art,4,1,3,1
+Ronnie Clark,617,Theater,5,3,2.7,1
+Phoebe Mengxiao Tang,,Political Science,0,0,0,
+Michael Tang,,Art & Art History,0,0,0,
+Indre McGraw,,Art & Art History,5,1,3,1
+Christina Bodie,,Dance,0,0,0,
+Cody Brown,,Political Science,4.3,4,2.8,0.75
+Kapse Anupama,,Liberal Studies,0,0,0,
+Simon Kim,,Theological Studies,4,1,3,1
+Taryn Vanderhoop,,Dance,2,4,3.5,0.2
+John Todd,,Dance,5,1,2,1
+William McCormack,,Health Sciences,5,2,3,1
+Mariya Vizireanu,,Political Science,5,1,2,1
+Torrey Lindsay,,Theater,3,1,3,1
+Kim Rohm,,Marketing,3,1,2,1
+Kelly Watson,380,Business,0,0,0,1
+Albert Minette,19,Music,2,1,2,0
+Whitney Mannies,,Political Science,5,1,2,1
+Youyou Tao,758,Business,4.5,2,2,1
+Joshua Cohen,,Biology,1,1,5,0
+Brian Kotowski,,Film & Television,5,1,1,1
+Bruce Kalish,,Film & Television,4,1,2,1
+Laurel Butler,,Art & Art History,5,2,2,1
+Claire Leon,,Aerospace Studies,0,0,0,
+Matthew Jung,,Education,1,1,1,0
+Nancy Pineda-Madrid,538,Theological Studies,4,1,4,0
+Oriel Siu,,Chicano Studies,5,1,1,1
+Marlon Graf,,Business,0,0,0,
+Samir Naimi,,Studio Art,5,1,4,1
+Dominick Beaudine,,English,5,2,2.5,1
+Konstantin Platanov,,Economics,3.7,4,3.8,0.9
+Mark Macedo,470,Finance,3.5,2,4,0.5
+Ricardo Rocha,,Theater,2,1,3,0
+Tatiana Krokar,,Animation,0,0,0,
+Aaron Smith,4,Music,5,3,2,1
+Alicia Portnoy,,Spanish,4,1,3,1
+Gary Hershberger,245,Film,5,1,2,1
+Margaret Murphy,457,Film & Television,5,1,2,1
+Laura Huffman,416,French,4.5,2,3.5,1
+Christopher Cappelli,134,Health Sciences,4,1,2,0.67
+Barbara Lang,,Ethnic Studies,4.9,20,1.6,1
+Pilar Chavez,,Liberal Studies,5,1,2,1
+Ignacio Higareda,,Education,4.2,6,2.2,0.67
+June Duarte,360,Dance,4.7,3,1.3,1
+Marc Pitre,452,Film & Television,4.8,4,2.8,1
+Dan Watanabe,157,Film amp Television,5,4,1.3,1
+Christopher Blakley,,History,5,1,3,1
+Lisa Gillespie,,Dance,0,0,0,
+Leah Buturain,,Theological Studies,3,2,3.5,0.25
+Lehr Beidelschies,,Film & Television,0,0,0,
+Becky Chola,,Chicano Studies,5,1,1,1
+Robert Clark,,Business,0,0,0,
+Plamena Karadanova,,Dance,0,0,0,
+Robyn Anderson,,Computer Science,0,0,0,
+Glenn Grishkoff,253,Art & Art History,0,0,0,1
+Eric Strauss,224,Environmental Science,5,1,1,1
+Shira Shafir,,Biology,4,1,3,1
+Mehrdad Sharbaf,,Computer Information Systems,3,6,2.8,0.34
+Rich Martini,,Film amp Television,2.5,6,1,0.5
+Zining Li,764,Accounting,4.2,9,3.8,0.92
+Jennifer Jones,,Political Science,3,9,4,0.34
+Charles Peterson,120,Art & Art History,4.2,6,4,0.67
+Anthony Menendez,62,Accounting,4,4,3.7,0.82
+Kristi Lobitz,404,Music,3.1,28,3.3,0.5
+Gene Park,246,Political Science,3.6,15,3.7,0.6
+Carole Neal,,Communication Studies,0,0,0,
+Paul Chitlik,,Film & Television,4.8,7,2.4,1
+Leena Pendharkar,427,Film & Television,3,2,4,0.5
+Kurt Daugherty,,Film & Television,4,2,2,0.5
+Bryan Wuest,100,Film & Television,5,1,3,1
+Lan Ngo,413,Asian Pacific American Studies,4.4,5,2.6,0.86
+Scott Heinzerling,,Dance,2.4,7,3.1,0
+Tracey Colvin,,English,4.2,66,3,
+Molly Youngkin,,English,4.2,18,3.6,0.5
+Feryal Cherif,238,Political Science,4.8,7,2.7,1
+Sarah Bittick,634,Biology,5,1,4,1
+Peter Egan,571,Film,5,2,2,1
+Xiaojing Sun,749,Chinese,5,2,3,1
+Jonathan Rothchild,340,Theology,4.6,28,2.3,0.75
+Ricardo MacHon,591,Psychology,3.8,46,3.3,0.34
+Mary McCusker,478,Theater,4.5,4,1.2,1
+Richard Hadley,593,Film & Television,5,2,2.5,1
+Elizabeth Henley,212,Theater,4.5,2,1.5,1
+Laura Massa,,Psychology,4.5,7,2.7,0.67
+Jacqueline McSweeney,,Environmental Science,1.6,5,4.8,0
+Timothy Hogue,,Theological Studies,4.3,7,1.7,0.86
+Sami Siegelbaum,,Art  Art History,4.7,3,3,1
+Blake Mellor,87,Mathematics,3.1,43,3.6,0.89
+Nicholas Toghia,,Business Law,3.7,43,3,0.77
+Jok Madut Jok,,History,3.8,46,3.2,0.2
+Dorothea Herreiner,198,Economics,3.3,53,4.4,0.28
+Debra Watson,,Art & Art History,1,2,2.5,0
+Stacey Cabaj,661,Theater,5,3,3,1
+Shan Wang,649,Accounting,3.2,12,3.5,0.5
+Brian Sisselman,,Film & Television,1,1,1,0.5
+Michael Manoogian,508,Engineering,4.7,12,1.9,1
+Rachel Fox,,Theological Studies,4.2,13,2.6,0.93
+Jay Potter,,Theology,4.5,2,1.5,1
+Danielle Gibson,,English,3.7,8,3.6,0.63
+Jason Baehr,295,Philosophy,4.3,37,2.5,0.78
+Sohvi Heaton,,Business,3.6,13,2.6,0.62
+William Washington,747,African-American Studies,0,0,0,
+Catharine Christof,,Theater,4.9,4,1,1
+Eddie Malone,,English,3.6,6,2.3,0
+Sabine Huemer,,Psychology,4.8,15,2.3,1
+Edward Park,207,Ethnic Studies,3.2,39,3.4,0.63
+Alex Jacoby,,History,2.2,6,4.2,0.17
+Jonathan Medici,339,Film & Television,5,2,2.5,1
+Vanessa Newell,729,Film & Television,3.6,6,2.7,0.75
+Sarah Mitchell,638,Chemistry,5,3,3,1
+Kalliopi Kefalas,,Greek,1.2,5,5,0
+Matthew Dewey,485,Communication Studies,3.8,4,3.3,0.75
+Michael Kang,,Film,0,0,0,
+Ben Radcliffe,79,Classics,5,1,2,1
+Vanessa Diaz,728,Chicano Studies,4.1,16,3.6,0.88
+Sunai Kim,,Civil Engineering,4,7,3.9,0.86
+Jordan Freitas,343,Computer Science,2.5,2,3.5,0.5
+Kathryn Mouzakis,,Chemistry,4.5,10,3.3,1
+Emily Jarvis,218,Chemistry,4,8,3.5,1
+Michael Daley,504,Film & Television,4.3,7,3.4,0.86
+Angelique Young,,English,4,9,3.6,0.78
+Mavis Rode,491,Dance,2.7,3,2.3,1
+Lawrence Wenner,,Philosophy,3.7,16,3,0.6
+Joanne Lin,,Mathematics,0,0,0,
+Jeffrey Wilson,,Philosophy,4.1,35,3.3,0.67
+Karen Smalley,369,Film & Television,3.5,2,3.5,0.67
+Joseph Hellige,,Psychology,5,3,3.7,1
+Josh Caffrey,,Art & Art History,5,1,4,1
+Jenny Ferguson,,English,3.7,6,2.8,0.67
+Yves Vendes,,Philosophy,4,3,3,0.67
+Roxanne Banuelos,,Communication Studies,3.5,2,3.5,0.5
+Lauren Wilson,,Film & Television,4.8,4,2.2,1
+Brenda Nicolas,,Chicano Studies,4.3,3,2,1
+Nicholas Virginio,547,Marketing,4.8,5,2.4,1
+Victoria Graf,,Education,3,2,2.5,1
+Martin Nemoianu,476,Philosophy,4.6,45,3.1,0.8
+Margarita Ochoa,460,History,3.5,30,3.3,0.58
+Luis Sanchez Lopez,,Chicano Studies,4,5,2,0.8
+Pauline Ebert,,German,4.8,4,2,1
+Gerald Adler,,Business,3.5,16,2.6,1
+Mark Bernier,,Philosophy,4.4,13,2.6,0.93
+Corinna Laughlin,,Communication Studies,5,3,2.7,1
+Dmitry Kmelnitsky,,Art,3.3,8,1.6,0.5
+Alejandra Castellanos,,Spanish,2,1,5,0
+Skinner Myers,,Film amp Television,5,2,2.5,1
+Jenevieve Roper,305,Health Sciences,2.5,2,3,0.5
+Gil Klein,250,Theological Studies,3.8,10,2.9,0.5
+Steven Nygaard,675,Education,5,5,2.2,1
+Tim Fitzgerald,,Theater,5,15,1.7,1
+Arthur Gross-Schafer,,Business,4.3,62,3.5,0.85
+Tyler Degroot,,Accounting,5,1,4,1
+Michael Berg,,Mathematics,3.8,44,3.6,0.67
+Stella Oh,665,Ethnic Studies,4.3,37,2.4,1
+Cara Anzilotti,,History,3.9,82,3.6,0.79
+Roberto Cancio,,Sociology,4.8,28,3.3,0.93
+Andres Matlock,,Classics,5,3,3,1
+Laura Harrington,415,Film & Television,5,2,3.5,1
+Dermott Walsh,,Theology,4.6,13,2.5,1
+Oscar Barragan,,Philosophy,4,2,2,0.5
+Meric Keskinel,501,Economics,3.9,51,2.5,0.8
+Cecilia Gonzalez-Andrieu,117,Theology,3.4,16,3.2,0.5
+Zbigniew Przasnyski,,Business,4.4,20,3.9,0.67
+Ann LE,53,Studio Art,3.9,10,3.2,1
+Walpa D'Mark,,Studio Art,5,3,2.3,1
+Stuart Ching,,English,4.3,36,2.1,1
+Myla Bui-Nguyen,,Marketing,4.5,12,3.5,1
+Joshua Hallam,351,Mathematics,4.7,27,3.4,1
+Shana Habel,,Dance,4.5,2,1.5,1
+Ani Shabazian,,Education,3,1,3,0.67
+Richard Fox,592,Political Science,4.5,22,4,0.75
+Nina Lozano,553,English,0,0,0,
+Gursel Aliyev,,Economics,2.7,3,3.7,0.34
+Bernadette Musetti,81,Education,4.7,10,3.5,0.91
+Daniel Jacobs,,Business,3,7,3.6,0.58
+Ulli Ryder,,American Studies,3.8,11,1.8,0.5
+Carl Urbinati,105,Biology,4.1,47,3.2,0.75
+Min Yoo,521,Sociology,4.5,2,3,0.75
+Christina Eubanks-Turner,131,Mathematics,3.1,16,3.4,0.82
+John Bakas,,Theology,3,12,2.6,0
+Joshua Spizman,,Finance,3.7,14,3.3,0.58
+Brendan Smith,92,Mechanical Engineering,3,4,3.5,0.72
+Albaro Ibarra,17,Marketing,5,2,2,1
+Thomas Reilly,703,Chemistry,3.5,30,3.2,0.38
+Emma Benayoun,,Film & Television,2,1,3,0.67
+Peter Hoffman,572,Geography,3.7,50,2.4,1
+Michelle Miller,518,Economics,4.2,18,3.6,0.84
+Scott Delanty,,Accounting,3.7,33,3.6,0.56
+Fatima Rahman,,Political Science,5,1,2,1
+Christopher SooHoo,143,Art & Art History,3.3,4,3.3,0.75
+Rob Burchfield,,Graphic Arts,3.8,24,2.5,1
+Monique Mansour,,Communication Studies,4.5,16,2.4,0.88
+Miranda Banks,,Film & Television,4,3,3,1
+Andrea Odinov,43,Theater,5,2,3,1
+Melissa Weitenberner,,Music,5,1,2,1
+Kirstin Noreen,398,Art History,3.8,36,3.8,0.75
+Leena Hingnikar,,Business Law,3.3,3,3,0.67
+Andrea Schlaerth,45,Business,4,2,1,0.75
+Anupama Kapse,,Film & Television,5,1,4,1
+Jay Williams,298,Film & Television,5,1,2,1
+Brian Treanor,,Philosophy,4.9,55,2.9,0.84
+Velitchka Kaltcheva,730,Marketing,3.6,24,2.3,0.56
+Maria Vasquez,461,Biology,3.3,15,3.1,0.72
+Nancy Fujishige,537,Biology,3.5,2,4,0.67
+Elizabeth Burke,,Psychology,5,1,1,1
+Kerstin Fisk,388,Political Science,4.2,17,3,0.8
+Amanda Whidden,35,Communication Studies,4.9,19,1.6,1
+Terry Lenihan,,Fine Arts,2.6,13,3.6,0
+Brad Stone,89,Philosophy,3.8,54,3.5,0.43
+Matthew O'Neill,,Biology,3,2,3.5,0.5
+Shanna Hughes,,Dance,4.3,6,1.8,0.84
+David Offenberg,173,Finance,3.9,55,3.8,0.57
+Brandon Shamim,91,Business,4,10,1.8,0.9
+William Parham,742,Education,5,1,4,1
+Maria Elena De Las Carreras,,Film & Television,4.3,17,3.4,0.88
+Dennis Kwong,,Film,3,9,2,0.25
+Kristen Smiarowski,403,Fine Arts,3.9,12,2,0.78
+Donald Jenkins,,Health Sciences,4,1,1,1
+Glenn Gebhart,,Film,2.9,6,2.7,0.5
+Mandy Korpusik,448,Computer Science,4.3,3,3.7,1
+Derrick Noyce,,Music,3.4,14,3.5,0.8
+Darrin Murray,164,Communication Studies,3.8,71,3.4,0.44
+Dominique Isner-Ball,,French,3.8,20,3,0.5
+Elizabeth Dewey,210,Film & Television,4.5,4,2.5,1
+Kennedy Wheatly,,Film,2.5,32,2.3,0.75
+Timothy Fitzgerald,,Theater,5,1,2,1
+Jayant Rao,,Economics,4.5,2,3,1
+Patricia Oliver,564,Communication Studies,5,5,1,1
+James Bunker,282,Communication Studies,3.5,20,3.4,0.8
+Sarah Emanuel,,Theological Studies,3.8,5,1.8,1
+Robert Kritzler,603,Accounting,3.9,7,3.6,0.43
+James Taylor,289,Philosophy,0,0,0,
+Yanping Ma,752,Mathematics,3.2,36,3.1,0.44
+Joseph Weber,349,Civil Engineering,4,5,4.4,0.8
+Townsend Scholz,,English,3.2,5,3.8,0.67
+David Garber,167,Film amp Television,2.7,7,2.7,0.5
+Anthony Perron,63,History,4.4,43,2.6,1
+James Sadler,,History,2.5,4,4.2,0.25
+Jay Kumar,,Theological Studies,4.6,43,2.6,0.89
+Han Dai-Yu,,Art & Art History,3.7,14,2.9,0.72
+Andrea Plate,44,Sociology,5,1,2,1
+Darlene Zarazu,,Sociology,5,1,2,1
+Paul Humphreys,,Music,3,20,2.8,0
+Mitch Rufca,,Business,5,4,1,1
+Thomas Laurent,702,Mathematics,3.7,15,3.5,0.7
+Joshua Mason,,Philosophy,3.8,7,3.3,0.58
+Kennedy Wheatley,383,Women's Studies,5,1,2,1
+Alex Martinian,,Business,0,0,0,
+Lei Huang,,Engineering,2.4,9,4,0
+David Berube,165,Physics,4.1,21,3.4,1
+Cristian Searchar,,Latin,0,0,0,
+Oskar Toruno,,Film,3.8,9,1.6,0.67
+Virginia Saya,,Music,3.9,12,2.5,0.5
+Joseph Perry,,Political Science,0,0,0,1
+Sean Fenton,643,Theater,5,32,1.1,1
+Amber Bratcher-Covino,,Biology,3.3,3,3,0.8
+Alexandra Sturm,26,Psychology,3.9,9,3.9,0.7
+Mary Kuryla,477,Film,4.3,9,2.6,1
+Tom McNulty,714,Film & Television,0,0,0,
+Marne Campbell,473,African-American Studies,4.1,16,2.3,1
+Brian Rountree,,Communication Studies,5,1,1,1
+Daniel Freedland,,Communication Studies,4.1,7,2.1,1
+Yongsun Paik,756,Business Administration,2.7,42,4,0
+Joseph Hattendorf,,Accounting,3.6,14,3.5,0.64
+Marc Calera,,Theater,0,0,0,
+Lambert Doezema,412,Chemistry,4.6,63,3.5,0.94
+Jeff Phillips,299,Physics,4,18,3.1,0.84
+Prachi Jain,575,Economics,4.6,11,3.9,0.92
+Robert Winsor,608,Business,4.7,46,2.4,1
+Kimberly Rohm,397,Marketing,4,2,1.5,1
+Mitchell Hamilton,523,Marketing,4.5,13,2,1
+Edgar Rothermich,204,Audio Production,4.7,10,3.6,1
+Diane Meyer,187,Fine Arts,3.7,15,2.6,0.25
+Stephanie Beaudion,,Health Sciences,3,2,4,0.67
+Leena Pendharker,,Film,2.9,14,2.7,0.5
+Grace Kao,,Theology,4.6,5,2.2,0.92
+Robert Senter,606,Chemistry,3.8,16,3.1,0.87
+Frederick Ayeroff,,Film & Television,4.9,10,1.6,1
+Thomas Ford,700,Environmental Science,4.3,4,2.5,1
+Amy Woodson-Boulton,38,History,4.5,52,3.3,1
+Darin Earley,,Education,5,1,2,1
+Nyema Guannu,557,Economics,4.7,32,2.3,0.95
+Kenneth Rudnick,385,Law,3.6,60,3.6,0.54
+Ela Freeman,,Spanish,3.5,2,4,0.5
+Stephen Heller,,Chemistry,4.6,16,3.5,1
+Zhen Tang,,Marketing,5,7,2.2,1
+Chaya Crowder,,Political Science,1.5,17,4.7,0.43
+Mark Diamond,467,Theological Studies,4,9,2.6,0.75
+Kristo Gobin,406,Communication Studies,4.9,34,2.3,0.97
+Abran Padilla,,Business,2,3,4.7,0.5
+Kristen Covino,402,Biology,3.2,9,3.4,0.4
+Matthew Schlissel,487,Film & Television,5,2,2,1
+Patricia Martinez,,Management,3.2,44,2.9,0.43
+Ian Moore,272,Philosophy,4.3,3,2.3,1
+Anna Winget,58,Theater,0,0,0,
+Teah Goldberg,691,English,4.8,38,2.7,0.98
+Sharon Mooney,652,Film  Television,4.4,7,3.4,0.75
+Arik Greenberg,,Theology,4.4,39,1.9,0.92
+Todd Shoepe,713,Natural Sciences,4.8,40,3.7,1
+Robert Musci,604,Chemistry,0,0,0,1
+Kyra Pearson,409,Communication Studies,4,39,2.9,0.82
+Arthur Gross-Schaefer,,Business Law,4.5,13,3.4,0.91
+Sunil Murthy,677,Business,3,1,3,1
+Lauren Cole,422,History,3.8,15,3.6,0.34
+Ashley Ireland,,Education,3,1,3,0
+Ayser Sulman,,Film & Television,0,0,0,
+William Kinsella,740,Accounting,3.4,44,3.5,0.46
+Carolyn Viviano,110,Biology,4.6,12,2.6,1
+Eric Perl,223,Philosophy,3.2,40,3.8,0.46
+K.J. Peters,,English,4,46,3.5,0.77
+Sean Dempsey,642,History,4.8,16,2.2,1
+Derek D'Sa,,Finance,4,15,3.1,0.9
+Douglas Burton-Christie,,Theological Studies,4,7,2.7,1
+Michael Brodsky,,Fine Arts,2.3,45,3.1,0.6
+Heidi Fessler,266,Archaeology,5,1,3,1
+Nigel Raab,552,History,3.6,80,3.3,0.65
+Oscar Tovar,,Philosophy,4.7,16,2.8,1
+Damon Hines,155,Communication Studies,4.2,33,2.1,0.8
+Natalie Ortiz,539,Mathematics,4.6,39,2.4,0.96
+Kevin Wetmore,393,Theater,4.7,24,2.2,1
+Sonia Desai,,Theater,3.5,2,3,0.5
+Dana Resnick,158,Theater,3.9,10,2.5,0.72
+Frank Sheppard,241,Theater,4.5,4,1.8,1
+Dominique Braxton,194,Marketing,4,1,2,1
+Joshua Beckett,,Theology,3.8,6,2.5,0.75
+Trevor Zink,,Business,3.8,28,3.8,0.73
+Charmaine Kaimikaua,,Communication Studies,3.1,16,1.8,0.6
+Mobashera Hallam,525,Mathematics,3.7,15,3.3,0.79
+Laura Smyth,418,Dance,3.5,4,1,1
+Ingrid Greene,274,Management,4.3,3,3,1
+Marcela Garcia-Romero,,Philosophy,4,6,3.5,0.67
+Dustin Reece,202,Business,4.2,15,2.3,1
+Sean Winkler,,Philosophy,5,12,2.5,1
+Rosanna Lu,,Theology,3.7,3,3.3,0.75
+Erin Kaplan,,Economics,3.7,11,2.9,0.79
+Ashleigh Campi,,Political Science,4.1,11,3.1,0.75
+Brian Reedy,,Theology,4.7,10,2.2,0.92
+Eugene Brancolini,233,Communication Studies,4.3,15,2.2,0.86
+Stephen Ujlaki,670,Film,0,0,0,1
+Michael Courey,503,Theological Studies,5,1,2,1
+Linh Hua,436,English,5,1,3,1
+Charles Erven,,Theater,2.7,3,4.3,0
+Maxellende Ezin,492,Biology,2.5,14,4.5,0.42
+Karen Ellis,367,Mathematics,4.1,93,2.5,0.84
+Nicole Bouvier-Brown,550,Chemistry,3.1,40,4,0.46
+Alexander Zambrano,24,Philosophy,4.3,12,3.1,0.9
+Chela Willey,123,Psychology,4.8,22,3.1,1
+Darnise Martin,,Theology,3.2,49,2.7,0.46
+Eugenio Volpe,,English,4.5,11,2.1,0.94
+Sydney Bright,684,Animation,0,0,0,1
+Negin Ghavami,544,Psychology,2.7,16,4.1,0.25
+Jeremy McCallum,317,Chemistry,4.8,39,3.5,1
+Michael Foy,506,Psychology,3.6,90,3.5,0.66
+Mark Anderson,466,History,4.6,7,3,0.93
+Tyler De Groot,,Accounting,4.4,7,3.7,0.93
+Micah Officer,502,Finance,3.3,7,3.9,0.34
+Nnogo Obiamiwe,,Business Law,4.4,17,2.5,0.93
+Aimee Ross,,English,4.8,18,2.9,1
+Nancy Coster,536,Accounting,4.5,55,3.5,0.91
+Vincent Coletta,,Physics,3,16,3.5,0.2
+Rafiql Noorani,,Engineering,2.6,28,2,0.5
+Chris Hong,,Mechanical Engineering,1,1,4,0
+Junyuan Lin,361,Mathematics,4,1,2,1
+Kaelyn Sabal-Wilson,363,African-American Studies,0,0,0,1
+Au Vo,,Computer Information Systems,2.3,3,3,0.34
+Swarup Joshi,683,Economics,3.9,15,3.6,0.8
+Gabriele Varieschi,242,Physics,4.7,9,1.9,1
+Julian Saint Clair,,Marketing,4.7,27,2.3,0.85
+Juan Ortiz,,Mathematics,4.4,18,2.7,0.85
+Nathan Sessoms,542,Sociology,5,5,1.6,1
+Gregory Ruzzin,257,Film amp Television,3.7,3,2.7,0.67
+Edward Mosteig,206,Mathematics,4.6,34,3,0.95
+David Parrish,,Film,0,0,0,
+Charles Vance,,Management,4,36,2.3,1
+Danielle Borgia,161,American Studies,3.1,41,3.8,0.46
+Zahra Alavi,,Physics,3.7,10,2.9,0.7
+Gregory Lontok,256,Computer Information Systems,5,9,3.2,1
+Lisa Daggett,437,Business,4.4,7,2.4,0.9
+Christopher Gipson,139,Classics,0,0,0,1
+Martina Ramirez,,Biology,4.3,38,2.2,0.25
+Paul Harris,,English,3.8,23,2.9,0.9
+Nora Murphy,555,Psychology,3.9,29,3.1,0.93
+Kayoko Okada,378,Psychology,2.8,15,3.8,0.42
+Klaus Shipman,,Film & Television,2.7,3,4.7,0.34
+Sarah Babbitt,,Philosophy,0,0,0,
+Vivian Lezak,736,Mathematics,4.2,24,2.7,0.93
+Susan Elkinawy,678,Finance,3.9,31,3.5,0.75
+Germano Saracco,,Film amp Television,0,0,0,
+Mark Gaynor,,Philosophy,2.5,2,2.5,0.34
+Yu Li,760,Modern Languages & Literatures,5,2,3.5,1
+Alexander Glosenberg,23,Entrepreneurship,3,9,3.9,0.54
+T.J. Harper,,Music,3.7,3,3,0.8
+Peter Ferguson,,Electrical Engineering,4.7,3,3.3,1
+Lawrence Lacey,424,Theater,5,6,3.3,1
+Wendy Binder,738,Biology,3.5,48,3.4,0.34
+Timothy Shanahan,708,Philosophy,3.5,46,3.4,0.44
+Anthony Hui,,Mathematics,3,22,2.3,0.5
+Kala Seal,364,Business,3.1,62,4.2,0.5
+Constance Chen,,History,3.8,62,2.8,1
+Ellen Ensher,214,Management,4,40,2.3,1
+Bradley Mankoff,,Political Science,4,1,3,0
+Anna Terzyan,57,Economics,3.2,32,2.9,0.69
+Fulya Ersoy,,Economics,4.6,9,3.7,1
+Mark Saya,471,Music,3.9,16,3.6,0.34
+Elizabeth Quinn,213,Film & Television,4.8,4,2.8,1
+Amir Hussain,36,Theology,4.9,99,2.3,0.84
+Kimberly Moekle,396,English,5,4,3.2,1
+Kenneth Provencher,384,Film & Television,4.6,8,2.7,1
+Andrew Dilts,47,Political Science,5,23,4,1
+Catherine Peters,115,Philosophy,3.3,11,3.5,0.62
+Marisa De Silva,464,Music,5,2,2,1
+Cory Evans,147,Biology,2.5,7,4.6,0.5
+Jason Jarvis,297,Communication Studies,3.2,18,3.3,0.48
+Gabriele Magni,,Political Science,3.9,7,2.9,0.75
+Nirinjan Khalsa,554,Theological Studies,4.6,9,2.4,0.82
+Sheila Forman,,Psychology,4.3,15,2.5,0.67
+Sandibel Borges,630,Women's Studies,5,3,2.7,1
+Daphne Sicre,,Theater,3.4,5,3,0.6
+Mark Chilingar,,Psychology,2.1,35,2.1,0.09
+Lauren Guerra,,Theology,2.7,7,3,0.5
+Matthew Petrusek,,Theology,3.8,32,3.3,0.76
+Joshua Kulmac Butler,,English,3.4,20,3.4,0.43
+Allison Noyes,,Communication Studies,4.2,16,3.5,0.85
+Rochelle Webb,614,Entrepreneurship,3.7,3,4.3,0.75
+Mark Chillingar,,Psychology,0,0,0,
+Tyler Harlan,,Urban Studies,3.8,9,3.4,0.92
+Pippa Drennan,,Biology,4,31,2.7,1
+Sheilah Jones,,Theology,3.5,52,3.1,0.43
+Linda Leon,433,Business,3.2,52,3.6,0.5
+Shirin Birjandi,,Biology,4.1,15,3.2,0.74
+Shirin Mollah,656,Economics,1.4,5,3.6,0.25
+Maureen Fitzsimmons,,Liberal Studies,5,9,2.6,1
+Diana Santacrose,185,Psychology,2.3,13,3.9,0.29
+Megan Gallipeau,,Mathematics,5,7,2.6,1
+Margarete Feinstein,459,Theological Studies,3.6,20,3.7,0.74
+David Kovacs,170,Philosophy,4.1,24,2.5,0.88
+Stacee Comage,660,Film & Television,5,1,2,1
+Madhu Viswanathan,,Marketing,1.5,19,2.2,0.23
+Eric Young,227,Economics,4.4,40,3,0.91
+Josette Banks,,Psychology,2.8,25,3.9,0.56
+Eddie Becton,203,American Studies,3.9,22,2.2,1
+Christopher  Murphy,,Philosophy,2.3,23,3.7,0.4
+Robert Simmons,607,Film & Television,4.5,32,3.5,0.67
+Yanjie Wang,751,Asian Pacific American Studies,3.9,10,3.7,0.73
+Saori Shiraki,632,Chemistry,3.7,22,3.5,0.76
+Francisco Valle,240,Business,3.3,7,1.9,0.67
+Kevin McDonald,391,History,2.8,22,3.7,0.36
+Devon Golaszewski,,History,4.2,5,2.2,0.84
+Sariolghalam Mahmood,,Political Science,4.5,8,3.7,0.95
+Stephanie Limoncelli,667,Sociology,4.5,21,3,0.84
+Barbara Marino,76,Engineering,4.3,18,3.1,0.5
+Delaram Yazdansepas,,Computer Science,3,2,4,0.8
+Mark Aloysius,465,Theological Studies,2,1,3,0.8
+Jill Nunes-Jensen,,Dance,3.4,5,2.6,0.6
+William McClain,741,Communication Studies,4.9,12,2,1
+Sara Simpson,,Psychology,4.8,4,3.2,0.75
+Cathleen McGrath,116,Business,2.7,36,2.6,0.29
+James Faught,284,Sociology,3.4,37,3.4,0
+Erika Yagi,,Modern Languages & Literatures,5,1,2,1
+Petra Liedke - Konow,,German,4.9,19,2.2,0.6
+Daniela Chavez,,English,0,0,0,1
+Janik Abishek,,Theology,0,0,0,
+Christopher Kaczor,140,Philosophy,3.3,53,3.1,0.8
+John Reilly,,English,1.7,46,4.1,0
+Bassam Farah,77,Business,0,0,0,
+Briana Maturi,,Education,5,2,1.5,1
+Sina Zare,658,Business,0,0,0,1
+Scott Roniger,,Philosophy,4,9,3.6,0.73
+Emma Davis,220,Economics,2.9,11,2.4,0.54
+Soumya Mukherjee,,Business,2.4,9,4.2,0.62
+Matthew Siniawski,,Mechanical Engineering,3.9,13,2,0.6
+Emma Cones,,African-American Studies,1,2,2.5,
+Carlos Villegas,107,Economics,0,0,0,1
+Tory Smith,718,Theater,0,0,0,1
+Jade Chen,278,Accounting,1,1,5,1
+Judy Park,357,English,3.2,42,3.3,0.78
+Luke Blong,,Philosophy,0,0,0,
+Melissa Fitzpatrick,497,Business,0,0,0,1
+Eric Martin,222,Theology,5,1,2,1
+Robin Wang,612,Philosophy,4.1,30,2.2,0.84
+Elham Ghashghai,208,Engineering,0,0,0,
+Tyler Horvath,,Physics,0,0,0,1
+Hossein Asghari,269,Computer Science,2.8,6,4.3,0.63
+Anna Papazian,56,Finance,0,0,0,1
+Jain Abhishek,,Theology,0,0,0,
+Victor Lin,,Engineering,0,0,0,
+Charles Jurgensmeier,119,Theological Studies,2,1,4,1
+Sijun Wang,,Business,0,0,0,
+Vincente Reja,,Philosophy,4,1,3,1
+Miguel Reyna,,Education,0,0,0,
+Monica Cabrera,527,Modern Languages & Literatures,4.3,50,3.5,0.75
+Christina Beck,,Film & Television,0,0,0,
+Douglas Eboch,200,Film & Television,0,0,0,1
+Adam Morgenstern,,History,0,0,0,1
+Carla Moreno,106,Economics,5,1,3,1
+Anthony Kmetty,,Business,4.6,28,1.8,0.9
+Tony Kmetty,716,Business,4.6,14,1.4,0.93
+Gloria Shin,254,Film  Television,2.8,17,3.2,0.56
+William Shaules,745,Theology,4,58,2.8,0.82
+Gloria Shin,254,Film & Television,0,0,0,
+Jodi Finkel,326,Political Science,3.6,119,4.3,0.71
+Megan Barnes,496,English,4.9,56,2.4,0.99
+Chun Lee,144,Finance,2.3,44,3.3,0
+Rebecca Avalos,585,Communication Studies,5,16,3.6,1
+Luciano Manfredi Console,,Mathematics,3.7,7,3.1,1
+Sina Kramer,657,Women,4.5,31,3.7,0.89
+Wesley Kading,,Business,4.6,27,2.7,0.89
+Dee Filecia,179,Political Science,4,4,2,0.75
+Bryan Wisch,99,English,4.9,7,1.8,1
+Andrew Forney,48,Computer Science,3.9,36,3.9,0.76
+Martin Ngo,,Film,0,0,0,
+Eduardo Carmona,,Film,0,0,0,
+Evan Cheney,,Philosophy,4,1,2,1
+Ayser  Salman,,Film & Television,5,1,2,1
+Pelin Giwa,,Physics,1,1,4,
+Sonya Kemp,,Management,4,1,3,1
+Daniela  Barrero,,English,5,1,1,1
+Panteleimon Vassilakis,,Film & Television,0,0,0,
+Nathan Chan,540,Political Science,0,0,0,1
+Anupama Prabhala,,Pacific & Asian Studies,2,1,3,
+Neelanjana Banerjee,543,Pacific & Asian Studies,0,0,0,
+Katherine Jackson,,Art & Art History,0,0,0,
+Marc Valera,,Theater,0,0,0,
+Andy Langdon,,Film,0,0,0,
+Tom Bielek,,Business,0,0,0,
+Robin Wilson,613,Mathematics,0,0,0,
+Amanda Malone,,English,0,0,0,
+Pablo Robles,,History,0,0,0,
+Jonathan Shoemaker,,Philosophy,0,0,0,
+Wayne Hung,,Chemistry,5,1,2,1
+Sandy Ko,631,Chinese,5,1,3,1
+Layla Karst,425,Theological Studies,0,0,0,
+Vincent DeLuca,,Film & Television,4,1,1,1
+Albert Gasser,18,Film & Television,0,0,0,
+Christopher Cormier,136,Education,1,1,2,
+Timothy Freire,,Philosophy,0,0,0,
+Elliott Piros,215,History,0,0,0,
+Malcolm Frierson,447,African-American Studies,5,1,2,1
+Kenneth  Garett ,,Education,0,0,0,
+Adam Thal,8,Political Science,5,1,2,1
+Nathalie Saededdin,,Business,5,1,2,1
+Le Wang,426,Mathematics,0,0,0,
+Rebecca Wall,589,History,0,0,0,
+Jessica Martinez-Tebbel,321,Women's Studies,4.3,4,3,1
+Michael Tang,,Fine Arts,4.1,57,3.5,0.92
+Boniface Mbouzao,,Computer Science,0,0,0,1
+Eliza Rodriguez Y Gibson,,Chicano Studies,2.4,13,4,0.34
+Laura Poladian,417,Communication Studies,4.2,24,3,0.82
+Therese Edwards,696,Communication Studies,4.7,46,2.5,1
+Mariko Rooks,463,African-American Studies,0,0,0,
+Michael Mills,509,Psychology,3.5,35,2.7,0.46
+Ying Sai,754,Computer Information Systems,3,48,2.5,0
+Anna Harrison,,Theology,4.2,37,3.6,0.86
+Pamela Sklar,560,Management,3.9,16,1.6,0.8
+Richard Abrams,,Psychology,3,20,3.6,0.74
+Daniel Smith-Christopher,,Theology,4,76,3.6,0.77
+Katerina Zacharia,372,Classics,3.2,27,3.9,0.34
+Monique Turner,,Psychology,0,0,0,
+Aliaa El Sandouby,29,Art & Art History,0,0,0,
+Fereidoun Jahani,,Mathematics,2.1,53,4,0.29
+Zaki Eusufzai,763,Economics,3,42,3.1,0.58
+Yasaman Ghasemi,753,Business,3.6,15,3.3,0.84
+B.J. Johnson,74,Computer Science,3.9,25,3.4,0.75
+Alexander Diones,22,Political Science,3,1,3,
+Michael Patzia,510,Philosophy,4,29,3.9,0.8
+Tyler Edmiston,721,Computer Science,4.3,4,3.8,1
+Eric Balmer,,Philosophy,4.8,23,2.5,1
+Cheryl Hertz,126,Biology,2.1,32,4,0.3
+Claudia Sandoval,145,Political Science,2.3,22,3.9,0.27
+Michel van Biezen,,Physics,4.3,104,2.4,0.89
+Simon Aihiokhai,,Theological Studies,3.6,4,3.5,1
+Evan Gerstmann,,Political Science,4,87,3.6,0.72
+Lucy Cook,,Computer Information Systems,1.9,7,2.9,0
+Emi Harry,,Computer Science,0,0,0,
+Kimberly Icreverzi,395,Film,1.4,5,4,0
+Philip Chmielewski,,Engineering,2.9,12,3.3,0.6
+Amanda Apgar,33,Women's Studies,3.8,20,3.9,0.65
+Si Jun Wang,,Marketing,2.3,9,2.4,0.67
+Li Dai,432,International Business,4.6,62,2.8,0.91
+Karen Enriquez,,Theology,2.7,17,3.8,0.29
+Alessandro Varotto,20,Chemistry,3.3,25,2.4,0.72
+Dean Scheibel,,Communication Studies,3.6,17,2.7,0.38
+Tracy Tiemeier,719,Theology,4.6,25,2.8,1
+Roy Fisher,620,Theological Studies,4,11,2.8,1
+Matt Stefl,484,Marketing,4.8,44,3.3,0.96
+Sona Gala,659,Business Law,4.7,21,2.7,0.94
+Doris  Baizley,,Theater,0,0,0,
+Shelby Giles,654,Communication Studies,0,0,0,
