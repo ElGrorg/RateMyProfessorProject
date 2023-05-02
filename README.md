@@ -29,7 +29,7 @@ PROWL data includes Title, Subject Description, SubjectID, Subject, Course Numbe
 ### data_collection.ipynb
 Contains all python code for webscraping and creating CSVs for both RateMyProfessors and PROWL. 
 
-### [data_collection_prowl.ipynb](data_collection_prowl.ipynb)
+### [data_collection_prowl.ipynb](DataCollection/data_collection.ipynb)
 Premerged file containing all python code for PROWL data collection.
 
 ### data_collection_RMP.ipynb
