@@ -40,7 +40,7 @@ Contains all python code used in cleaning the data and converting it to usable i
 
 - Not mentioned is data cleaning done in Excel, where I created multiple tables used later on in SQL analysis
 
-### [sql_analysis.ipynb](SQLAnalysis/sql_analysis)
+### [sql_analysis.ipynb](SQLAnalysis/sql_analysis.ipynb)
 Contains all python/MySQL code for running SQL Analysis and generating insight for both datasets.
 
 ### [MergingFiles.ipynb](Presentation/MergingFiles.ipynb)
